@@ -32,7 +32,7 @@ also possible. Please <a href="#contact">contact</a> to know the details.
 {: .announce}
 
 ---
-# Selected Publications ( [&#10159;All Publications](pub.html) )
+# Selected Publications ( [&#10159;All Publications]({% link pub.md %}) )
 
 -  **Khanh N. Dang**, Nguyen Anh Vu Doan, Abderazek Ben Abdallah *"MigSpike: A Migration Based Algorithm and Architecture for Scalable Robust Neuromorphic Systems"*,  **IEEE Transactions on Emerging Topics in Computing (TETC)**,  IEEE, Volume 10, Issue 2, pp. 602-617, 2022.  \[[DOI: 10.1109/TETC.2021.3136028](https://doi.org/10.1109/TETC.2021.3136028)\] \[[PDF](./share/pubs/TETC-2021.pdf)\].
 - **Khanh N. Dang**, Akram Ben Ahmed, Abderazek Ben Abdallah, Xuan-Tu Tran, *"HotCluster: A thermal-aware defect recovery method for Through-Silicon-Vias Towards Reliable 3-D ICs systems"*, **IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems**, IEEE, Volume 41, No. 4,  pp. 799-812, April 2022. \[[DOI: 10.1109/TCAD.2021.3069370](https://doi.org/10.1109/TCAD.2021.3069370)\]/\[[PDF](./share/pubs/TCAD-2021.pdf)\].
