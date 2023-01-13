@@ -1,12 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,200;0,300;0,400;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,600;1,700;1,800;1,900&display=swap');
 
 body {
-    /* font-family: SF Pro Text, SF Pro Icons, Helvetica Neue, Helvetica, Arial, sans-serif; */
     font-family: 'Nunito Sans', sans-serif;
-
-    /* background-color: #ffffff; */
     background-color:#222;
-    /* color: #333; */
     color:#c0c0c0;
     font-size: 15px;
     line-height: 1.52947;
@@ -14,7 +10,6 @@ body {
     letter-spacing: -.021em;
     word-spacing: 0.1em;
 }
-
 
 .avatar {
     display: block;
@@ -106,10 +101,7 @@ footer a {
 
 h1 {
     font-size: 1.17em;
-    /* padding-top: 0.7em; */
     margin-bottom: -0.4em;
-    /* border-top: 1px solid #ececec; */
-
 }
 
 h2 {
@@ -122,17 +114,18 @@ h3 {
     font-size: 1.08em;
     padding-top: 0.7em;
     margin-bottom: -0.4em;
-    /* border-top: 1px solid #ececec; */
-
 }
 
 .announce {
     color: tomato;
 }
 
-#lastupdate {
-    color: #c0c0c0;
+.lastupdate {
+    color: #6c6c6c;
     text-align: right;
+    font-size: 0.8em;
+    margin-bottom: -0em;
+    margin-top: -1em;
 }
 
 @media (max-width: 899px) {
@@ -160,6 +153,4 @@ h3 {
         margin-block-start: 0.3em;
         margin-block-end: 0.3em;
     }
-
-
 }
