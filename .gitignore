@@ -2,3 +2,4 @@ _static_html_site/
 .jekyll-cache/
 _site/
 Gemfile.lock
+.DS_Store

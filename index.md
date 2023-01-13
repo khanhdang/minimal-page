@@ -32,7 +32,7 @@ also possible. Please <a href="#contact">contact</a> to know the details.
 {: .announce}
 
 ---
-# Selected Publications ( [&#10159;All Publications](pub) )
+# Selected Publications ( [&#10159;All Publications](pub.html) )
 
 -  **Khanh N. Dang**, Nguyen Anh Vu Doan, Abderazek Ben Abdallah *"MigSpike: A Migration Based Algorithm and Architecture for Scalable Robust Neuromorphic Systems"*,  **IEEE Transactions on Emerging Topics in Computing (TETC)**,  IEEE, Volume 10, Issue 2, pp. 602-617, 2022.  \[[DOI: 10.1109/TETC.2021.3136028](https://doi.org/10.1109/TETC.2021.3136028)\] \[[PDF](./share/pubs/TETC-2021.pdf)\].
 - **Khanh N. Dang**, Akram Ben Ahmed, Abderazek Ben Abdallah, Xuan-Tu Tran, *"HotCluster: A thermal-aware defect recovery method for Through-Silicon-Vias Towards Reliable 3-D ICs systems"*, **IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems**, IEEE, Volume 41, No. 4,  pp. 799-812, April 2022. \[[DOI: 10.1109/TCAD.2021.3069370](https://doi.org/10.1109/TCAD.2021.3069370)\]/\[[PDF](./share/pubs/TCAD-2021.pdf)\].
@@ -44,10 +44,8 @@ also possible. Please <a href="#contact">contact</a> to know the details.
 
 # Patents
 
-Google patent search: [Japanese](https://patents.google.com/?inventor=%E3%83%8A%E3%83%A0+%E3%82%AB%E3%82%A4%E3%83%B3+%E3%83%80%E3%83%B3), [English](https://patents.google.com/?inventor=Nam+Khanh+Dang)
-
-1. **Khanh N. Dang**, A. Ben Abdallah, *“Program for generating migration flows for homogeneous computing systems and homogeneous computing devices” [ホ モジニアスコンピューティングシステム及びホモジニアスコ ンピューティングデバイスのマイグレーションフローの生成 プログラム]*, 特願 2022-196416, Japan patent, (filed patent)..
-1. A. Ben Abdallah, Zhishang Wang, **Khanh N. Dang**, Masayuki Hisada, *“EV Power Consumption Prediction Method and System for Power Management in Smart Grid [ スマートグリッドにおける電力管理のためのEV消 費電力予測 方法とシステム ]”*, Japan patent, 2022 (filed patent).
+1. **Khanh N. Dang**, A. Ben Abdallah, *“Program for generating migration flows for homogeneous computing systems and homogeneous computing devices” [ホ モジニアスコンピューティングシステム及びホモジニアスコ ンピューティングデバイスのマイグレーションフローの生成 プログラム]*, 特願 2022-196416, Japan patent, (filed patent).
+1. A. Ben Abdallah, Zhishang Wang, **Khanh N. Dang**, Masayuki Hisada, *“EV Power Consumption Prediction Method and System for Power Management in Smart Grid [ スマートグリッドにおける電力管理のためのEV消 費電力予測 方法とシステム ]”*, 特願2020-194733, Japan patent, 2022 (filed patent).
 1. A. Ben Abdallah, Huakun Huang, **Khanh N. Dang**, Jiangning Song, *"ＡＩプロセッサ (AI Processor)"*, 特願2020-194733, Japan patent, (patent pending).  \[[Google Patent](https://patents.google.com/patent/JP2022083341A/en)\].
 2.  A. Ben Abdallah, **Khanh N. Dang**, Masayuki Hisada, *"Distance-aware Extended Parity Product Coding for multiple faults detection for on-chip links"*, 特願2020-171553, Japan patent, (patent pending) \[[Google Patent](https://patents.google.com/patent/JP2021190829A/en)\].
 3. A. Ben Abdallah, **Khanh N. Dang**, *"A three-dimensional system on chip in which a TSV group including a plurality of TSVs provided to connect between layers"*, 特願2020-094220, JP2021190829A, Japan patent, (patent pending) \[[Google Patent](https://patents.google.com/patent/JP2022063152A/)\].
@@ -113,7 +111,7 @@ Ogbodo Mark Ikechukwu, Khanh N. Dang and Abderazek Ben. Abdallah, “Energy-effi
 - Technical Presenter/Chapter representative at The 3nd IEEE South-East Asia Workshop on Circuits and Systems (SEACAS 2019)
 - Technical Presenter/Chapter representative at The 2nd IEEE South-East Asia Workshop on Circuits and Systems (SEACAS 2018)
 - Technical presentation at The 1st IEEE South-East Asia Workshop on Circuits and Systems (SEACAS 2017)
-- Member of 2020 CASS COVID-19 Special Student Design Competition Judging Panel in ISCAS 2020 \[[URL](https://ieee-cas.org/2020-cass-covid-19-special-student-design-competition)\]
+- Member of 2020 CASS COVID-19 Special Student Design Competition Judging Panel in ISCAS 2020 
 
 
 ## Revieweing

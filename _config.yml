@@ -1,20 +1,9 @@
 
 title: Khanh N. Dang
-email: khanh@u-aizu.ac.jp
 baseurl: "/~khanh" # the subpath of your site, e.g. /blog
 url: "https://u-aizu.ac.jp" # the base hostname & protocol for your site, e.g. http://example.com
 
-# Build settings
-
-
 # Exclude from processing.
-# The following items will not be processed, by default.
-# Any item listed under the `exclude:` key here will be automatically added to
-# the internal "default list".
-#
-# Excluded items can be processed by explicitly listing the directories or
-# their entries' file path in the `include:` list.
-#
 exclude:
    - .sass-cache/
    - .jekyll-cache/
