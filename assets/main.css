@@ -104,14 +104,29 @@ footer a {
     height: 35px;
 }
 
-h3 {
-    padding-top: 0.7em;
+h1 {
+    font-size: 1.17em;
+    /* padding-top: 0.7em; */
     margin-bottom: -0.4em;
-    border-top: 1px solid #ececec;
+    /* border-top: 1px solid #ececec; */
 
 }
 
-#announce {
+h2 {
+    font-size: 1.10em;
+    margin-bottom: -0.4em;
+
+}
+
+h3 {
+    font-size: 1.08em;
+    padding-top: 0.7em;
+    margin-bottom: -0.4em;
+    /* border-top: 1px solid #ececec; */
+
+}
+
+.announce {
     color: tomato;
 }
 
