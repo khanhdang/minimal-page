@@ -19,7 +19,7 @@ I was a faculty member of Vietnam National University, Hanoi. I also worked at [
 particular, I have a strong interest in building on the 3D Integrated Circuit based neuromorphic computing
 architecture that is highly-reliable and scalable enough to be safely and responsibly deployed in the real
 world. 
-<!-- ([&#10159; More about Research]({% link research.md %})) -->
+([&#10159; More about Research]({% link research.md %}))
 
 Email: khanh@u-aizu.ac.jp \[ [&#10159; Contact info](#contact) \]
 *(Note: Email is by far the best way to reach me.)*
