@@ -18,17 +18,18 @@ I was a faculty member of Vietnam National University, Hanoi. I also worked at [
 *fault-tolerance* and *neuromorphic computing*. In
 particular, I have a strong interest in building on the 3D Integrated Circuit based neuromorphic computing
 architecture that is highly-reliable and scalable enough to be safely and responsibly deployed in the real
-world.
+world. 
+<!-- ([&#10159; More about Research]({% link research.md %})) -->
 
 Email: khanh@u-aizu.ac.jp \[ [&#10159; Contact info](#contact) \]
 *(Note: Email is by far the best way to reach me.)*
 
-**Links**: [ [ORCID](https://orcid.org/0000-0001-6702-3870) \| [Google Scholar](https://scholar.google.com.vn/citations?user=mQbqkUMAAAAJ) \| [dblp](https://dblp.uni-trier.de/pid/184/5348.html) \| [Linkedin](https://www.linkedin.com/in/khanhndang) \| [WoS](https://www.webofscience.com/wos/author/record/2184844) \| [Github](https://github.com/khanhdang) \| [Google Patents](https://patents.google.com/?inventor=Nam+Khanh+Dang) \| [Internal Page (for UG/G)](https://web-int.u-aizu.ac.jp/~khanh/) \| [Research Group](https://web-ext.u-aizu.ac.jp/misc/benablab/) ]
+**Links**: [ [ORCID](https://orcid.org/0000-0001-6702-3870) \| [Google Scholar](https://scholar.google.com.vn/citations?user=mQbqkUMAAAAJ) \| [dblp](https://dblp.uni-trier.de/pid/184/5348.html) \| [Linkedin](https://www.linkedin.com/in/khanhndang) \| [WoS](https://www.webofscience.com/wos/author/record/2184844) \| [Github](https://github.com/khanhdang) \| [Google Patents](https://patents.google.com/?inventor=Nam+Khanh+Dang) ]
 
 
-For prospective GT undergraduate and master students, research topics (VLSI design,
-fault-tolerance or neuromorphic computing) are available. Partial financial supports for master students are
-also possible. Please <a href="#contact">contact</a> to know the details.
+<i>For prospective GT undergraduate and graduate students, research topics (VLSI design, fault-tolerance or neuromorphic computing) are available; interested potential candidates please send me an  <a href="#contact">email</a>. <br>
+ Partial financial supports for graduate students (equivalent to tuition fee) are
+also possible. </i>
 {: .announce}
 
 # Selected Publications ( [&#10159;All Publications]({% link pub.md %}) )
@@ -89,7 +90,7 @@ Ogbodo Mark Ikechukwu, Khanh N. Dang and Abderazek Ben. Abdallah, “Energy-effi
 - SYC04: Advanced Computer Organization, Uni. of Aizu, *Graduate*, invited lecturer, 2021.
 
 
-# Service
+# Professional Service
 
 ## Special Issues
 -  Journal of Low Power Electronics and Applications (ESCI/Scopus): ''Advances in Embedded Artificial Intelligence and Internet-of-Things'', \[[URL](https://www.mdpi.com/journal/jlpea/special_issues/DU85TF44GS)\]
@@ -112,6 +113,12 @@ Ogbodo Mark Ikechukwu, Khanh N. Dang and Abderazek Ben. Abdallah, “Energy-effi
 
 - **Journal**: ACM Journal on Emerging Technologies in Computing Systems, Applied Sciences, Elsevier Journal of Systems Architecture, Electronics, Frontiers in Computational Neuroscience, Frontiers in Neuroscience, IEEE Transactions on Circuits and Systems I : Regular Papers, IEEE Access, Journal of Supercomputing, Microprocessors and Microsystems, Microelectronics Journal
 - **Conference**: IEEE MCSoC 2017, IEEE MCSoC 2018, IEEE MCSoC 2019, IEEE ATC 2020, IEEE APCCAS 2020, IEEE ICCE 2020, IEEE ISCAS 2021, IEEE APCCAS 2021, ICCE 2022, MCSoC 2022, ATC 2022, RIFV 2022
+
+# Current Students
+
+- NGUYEN Ngo Doanh (M.Sc.)
+
+[&#10159; Previous student's projects]({% link mentor.md %})
 
 
 # Contact
