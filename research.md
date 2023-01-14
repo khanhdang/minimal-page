@@ -130,6 +130,7 @@ Selected publications:
 <img src="assets/images/research_topics/h264/VENGME.png" class="icenter" width=70%
 {:/}
 
+
 *Caption:* The chip photograph: Global Foundry CMOS 130nm, 4mmx4mm, 100MHz, 1.2 V, 32mW, QFP256. 
 
 The detail of the chip could be found [here](https://www.nict.go.jp/en/asean_ivo/4otfsk000029wocm-att/Xuan-Tu_Tran.pdf).

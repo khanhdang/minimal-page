@@ -114,16 +114,15 @@ Ogbodo Mark Ikechukwu, Khanh N. Dang and Abderazek Ben. Abdallah, “Energy-effi
 - **Journal**: ACM Journal on Emerging Technologies in Computing Systems, Applied Sciences, Elsevier Journal of Systems Architecture, Electronics, Frontiers in Computational Neuroscience, Frontiers in Neuroscience, IEEE Transactions on Circuits and Systems I : Regular Papers, IEEE Access, Journal of Supercomputing, Microprocessors and Microsystems, Microelectronics Journal
 - **Conference**: IEEE MCSoC 2017, IEEE MCSoC 2018, IEEE MCSoC 2019, IEEE ATC 2020, IEEE APCCAS 2020, IEEE ICCE 2020, IEEE ISCAS 2021, IEEE APCCAS 2021, ICCE 2022, MCSoC 2022, ATC 2022, RIFV 2022
 
-# Current Students
+<!-- # Current Students
 
-- NGUYEN Ngo Doanh (M.Sc.)
-
-[&#10159; Previous student's projects]({% link mentor.md %})
+- NGUYEN Ngo Doanh (M.Sc.) -->
 
 
 # Contact
 
 〒965-8580 University of Aizu, \\
+Tsuruga, Ikki-Machi, \\
 Aizu-Wakamatsu, Fukushima, Japan \[[map](https://goo.gl/maps/9CYKa1HMB4EZjKW27)\]  \\
 Email: khanh@u-aizu.ac.jp \\
 Tel.: +81-242-37-2721 (int. 3362) \\

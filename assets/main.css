@@ -118,6 +118,13 @@ h3 {
     
 }
 
+.icenter {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-color:rgb(255, 255, 255);
+
+}
 .lastupdate {
     color: #6c6c6c;
     text-align: right;
