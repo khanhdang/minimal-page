@@ -9,7 +9,6 @@ textcolor: cccccc
 Disclaimer: This page contains PDF files of articles that might be covered by copyright. Please do not retrieve, copy, or distribute these files as it may violate copyright protection laws.
 {: .announce }
 
----
 # Book/Book chapters 
 
 1. [Book] Abderazek Ben Abdallah and **Khanh N. Dang** (Authors), *"Neuromorphic Computing Principles and Organization”*, 1st edition, Publisher: Springer, ISBN-10: 3030925242, ISBN-13: 978-3030925246. \[[Springer](https://link.springer.com/book/9783030925246)\], \[[Amazon](https://www.amazon.com/dp/3030925242/ref=cm_sw_em_r_mt_dp_FDNTBNH4591SBQ769MZH)\], \[[Amazon-JP](https://www.amazon.co.jp/dp/3030925242/ref=cm_sw_em_r_mt_dp_FDNTBNH4591SBQ769MZH)\]
@@ -17,7 +16,6 @@ Disclaimer: This page contains PDF files of articles that might be covered by co
 3. [Book Chapter] **Khanh N. Dang** and Abderazek Ben Abdallah, *"Architecture and Design Methodology for Highly-Reliable TSV-NoC Systems"*, Invited Book Chapter, Horizons in Computer Science Research. Volume 16, Chapter 7. **Nova Science Publishers**, 2018. ISBN: 978-1-53613-327-1. \[[LINK](https://novapublishers.com/shop/horizons-in-computer-science-research-volume-16/)\]/\[[PDF](http://adaptive.u-aizu.ac.jp/aslwp/wp-content/uploads/2018/03/Dng_Benab_NOVA_Chapter_2018.pdf)\].
 {: reversed="reversed"}
 
----
 # Journal papers  (peer-reviewed)
 
 1. Duy-Anh Nguyen, Xuan-Tu Tran, **Khanh N. Dang**, and Francesca Iacopi, *"A Low-Power, High-Accuracy with Fully On-Chip Ternary Weight Hardware Architecture for Deep Spiking Neural Networks"*, **Microprocessors and Microsystems**, Elsevier, Volume 90, pp. 104458, 2022. \[[DOI: 10.1016/j.micpro.2022.104458](https://doi.org/10.1016/j.micpro.2022.104458)\] \[[PDF](./share/pubs/MICPRO-2022.pdf)\] \[[Source code](https://github.com/khanhdang/TW-SNN)\]. 
@@ -34,7 +32,6 @@ Disclaimer: This page contains PDF files of articles that might be covered by co
 {: reversed="reversed"}
 
 
----
 # Domestical journal  papers (peer-reviewed)
 
 1. **Khanh N. Dang**, Akram Ben Ahmed, Ben Abdallah Abderrazak and Xuan-Tu Tran, *"Thermal distribution and reliability prediction for 3D Networks-on-Chip"*, **VNU Journal of Computer Science and Communication Engineering**, VNU, Volume 36, No 1, pp. 65-77, 2020. \[[DOI:10.25073/2588-1086/vnucsce.245]( https://doi.org/10.25073/2588-1086/vnucsce.245)\].
@@ -43,7 +40,6 @@ Disclaimer: This page contains PDF files of articles that might be covered by co
 4.  Ngoc-Mai Nguyen, Edith Beigne, Duy-Hieu Bui, **Nam-Khanh Dang**, Suzanne Lesecq, Pascal Vivet, Xuan-Tu Tran, *"An Overview of H.264 Hardware Encoder Architectures including Low-Power Features"*, **REV Journal on Electronics and Communications (JEC)**, REV, pp. 8-17, Vol. 4, No. 1-2, Jan. - Jun., 2014. \[[DOI:10.21553/rev-jec.72](http://dx.doi.org/10.21553/rev-jec.72)\].
 {: reversed="reversed"}
 
----
 # Conference papers (peer-reviewed)
 
 1. Tomohide Fukuchi,   Mark Ikechukwu Ogbodo, Jiangkun Wang,  **Khanh N. Dang** and Abderazek Ben Abdallah , *''Efficient Pneumonia Detection Method and Implementation in Chest X-ray Images Based on a Neuromorphic Spiking Neural Network''*, Springer Lecture Notes in Computer Science (LNCS), **14th International Conference on Computational Collective Intelligence Technologies and Applications**, September 24-26, 2022.
@@ -71,7 +67,6 @@ Disclaimer: This page contains PDF files of articles that might be covered by co
 {: reversed="reversed"}
 
 
----
 # Invited talks
 
 1. **Khanh N. Dang**, *"Robust Cognitive Brain-inspired Computing System: Architectures and Algorithms"*, **2022 4th International Conference on ICT Integration in Technical Education (ETLTC2022)**, Aizu-Wakamatsu, Japan, Jan 2022 (Plenary). \[[SLIDE](./share/pubs/ETLTC-2022.pdf)\].
@@ -81,7 +76,6 @@ Disclaimer: This page contains PDF files of articles that might be covered by co
 4. **Khanh N. Dang**, *"Fault-Tolerant Architectures and Algorithms for 3D-Network-on-Chips"*, **The 1st IEEE South-East Asia Workshop on Circuits and Systems (SEACAS)**, Hanoi, Vietnam, 2017. \[[SLIDE](./share/pubs/SEACAS-2017.pdf)\].
 {: reversed="reversed"}
 
----
 # Thesis 
 
 1. **Dang Nam Khanh**, *"Development of On-Chip Communication Fault-Resilient Adaptive Architectures and Algorithms for 3D-IC Technologies (3次元IC技術のための適応型耐障害チップ内通信アーキテクチャとアルゴリズムの開発)"*, The University of Aizu. \[[DOI](http://doi.org/10.15016/00000140)\]/\[[PDF](./share/pubs/THESIS-2017.pdf)\]/\[[SLIDE](./share/pubs/THESIS-SLIDE-2017.pdf)\].

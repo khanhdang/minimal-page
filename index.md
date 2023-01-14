@@ -23,7 +23,7 @@ world.
 Email: khanh@u-aizu.ac.jp \[ [&#10159; Contact info](#contact) \]
 *(Note: Email is by far the best way to reach me.)*
 
-**Links**: [ [ORCID](https://orcid.org/0000-0001-6702-3870) \| [Google Scholar](https://scholar.google.com.vn/citations?user=mQbqkUMAAAAJ) \| [dblp](https://dblp.uni-trier.de/pid/184/5348.html) \| [Linkedin](https://www.linkedin.com/in/khanhndang) \| [Github](https://github.com/khanhdang) \| [Google Patents](https://patents.google.com/?inventor=Nam+Khanh+Dang) \| [Internal Page (for UG/G)](https://web-int.u-aizu.ac.jp/~khanh/) \| [Research Group](https://web-ext.u-aizu.ac.jp/misc/benablab/) ]
+**Links**: [ [ORCID](https://orcid.org/0000-0001-6702-3870) \| [Google Scholar](https://scholar.google.com.vn/citations?user=mQbqkUMAAAAJ) \| [dblp](https://dblp.uni-trier.de/pid/184/5348.html) \| [Linkedin](https://www.linkedin.com/in/khanhndang) \| [WoS](https://www.webofscience.com/wos/author/record/2184844) \| [Github](https://github.com/khanhdang) \| [Google Patents](https://patents.google.com/?inventor=Nam+Khanh+Dang) \| [Internal Page (for UG/G)](https://web-int.u-aizu.ac.jp/~khanh/) \| [Research Group](https://web-ext.u-aizu.ac.jp/misc/benablab/) ]
 
 
 For prospective GT undergraduate and master students, research topics (VLSI design,
@@ -31,7 +31,6 @@ fault-tolerance or neuromorphic computing) are available. Partial financial supp
 also possible. Please <a href="#contact">contact</a> to know the details.
 {: .announce}
 
----
 # Selected Publications ( [&#10159;All Publications]({% link pub.md %}) )
 
 -  **Khanh N. Dang**, Nguyen Anh Vu Doan, Abderazek Ben Abdallah *"MigSpike: A Migration Based Algorithm and Architecture for Scalable Robust Neuromorphic Systems"*,  **IEEE Transactions on Emerging Topics in Computing (TETC)**,  IEEE, Volume 10, Issue 2, pp. 602-617, 2022.  \[[DOI: 10.1109/TETC.2021.3136028](https://doi.org/10.1109/TETC.2021.3136028)\] \[[PDF](./share/pubs/TETC-2021.pdf)\].
@@ -40,7 +39,6 @@ also possible. Please <a href="#contact">contact</a> to know the details.
 -  **Khanh N. Dang**, Akram Ben Ahmed, Yuichi Okuyama, Abderazek Ben Abdallah, *"Scalable design methodology and online algorithm for TSV-cluster defects recovery in highly reliable 3D-NoC systems"*, **IEEE Transactions on Emerging Topics in Computing (TETC)**, IEEE, Volume 8, Issue 3, pp. 577-590, 2020. \[[DOI: 10.1109/TETC.2017.2762407](https://doi.org/10.1109/TETC.2017.2762407)\]/\[[PDF](./share/pubs/TETC-2017.pdf)\].
 
 
----
 
 # Patents
 
@@ -53,7 +51,6 @@ also possible. Please <a href="#contact">contact</a> to know the details.
 JP2019092020A, Japan (patent pending) \[[Google Patent](https://patents.google.com/patent/JP2019092020A/en)\].
 {: reversed="reversed"}
 
----
 
 
 # Grants 
@@ -64,7 +61,6 @@ JP2019092020A, Japan (patent pending) \[[Google Patent](https://patents.google.c
 1. *"Reconfiguration Solution in Designing Network-on-Chip Architectures "*, core member, funded by **National Foundation for Science and Technology Development (NAFOSTED)** under *No. 102.01-2013.17* (2014-2016).
 1. *"Investigation, Design, and Implementation of a Video Encoder for Next Generation Multimedia Equipment"*, core member, funded by  **Vietnam National University, Hanoi (VNU)** under *No. QGĐA.10.02* (2010-2013).
 
----
 
 
 
@@ -74,7 +70,6 @@ JP2019092020A, Japan (patent pending) \[[Google Patent](https://patents.google.c
 2. *Best Student Paper Award* at **International Symposium on Ubiquitous Networking (UNet 2021)** for paper:
 Ogbodo Mark Ikechukwu, Khanh N. Dang and Abderazek Ben. Abdallah, “Energy-efficient Spike-based Scalable Architecture for Next-generation Cognitive AI Computing Systems”. More details [\[here\]](assets/awards/2021-Unet.jpg).
 
----
 
 # Teaching
 
@@ -93,7 +88,6 @@ Ogbodo Mark Ikechukwu, Khanh N. Dang and Abderazek Ben. Abdallah, “Energy-effi
 - SYC04: Advanced Computer Organization, Uni. of Aizu, *Graduate*, invited lecturer, 2019.
 - SYC04: Advanced Computer Organization, Uni. of Aizu, *Graduate*, invited lecturer, 2021.
 
----
 
 # Service
 
@@ -119,7 +113,6 @@ Ogbodo Mark Ikechukwu, Khanh N. Dang and Abderazek Ben. Abdallah, “Energy-effi
 - **Journal**: ACM Journal on Emerging Technologies in Computing Systems, Applied Sciences, Elsevier Journal of Systems Architecture, Electronics, Frontiers in Computational Neuroscience, Frontiers in Neuroscience, IEEE Transactions on Circuits and Systems I : Regular Papers, IEEE Access, Journal of Supercomputing, Microprocessors and Microsystems, Microelectronics Journal
 - **Conference**: IEEE MCSoC 2017, IEEE MCSoC 2018, IEEE MCSoC 2019, IEEE ATC 2020, IEEE APCCAS 2020, IEEE ICCE 2020, IEEE ISCAS 2021, IEEE APCCAS 2021, ICCE 2022, MCSoC 2022, ATC 2022, RIFV 2022
 
----
 
 # Contact
 

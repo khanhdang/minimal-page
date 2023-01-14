@@ -17,7 +17,7 @@ body {
     box-sizing: border-box;
     background-color: #DDD;
     float: right;
-    width: 260px;
+    width: 180px;
     top: 0rem;
     margin-left: 20px;
     transition: 0.75s all ease-in-out;
@@ -98,18 +98,18 @@ footer a {
 }
 
 h1 {
-    font-size: 1.17em;
+    font-size: 1.27em;
     margin-bottom: -0.4em;
 }
 
 h2 {
-    font-size: 1.10em;
+    font-size: 1.17em;
     margin-bottom: -0.4em;
 
 }
 
 h3 {
-    font-size: 1.08em;
+    font-size: 1.1em;
     padding-top: 0.7em;
     margin-bottom: -0.4em;
 }
