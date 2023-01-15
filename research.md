@@ -1,9 +1,6 @@
 ---
-layout: page
+layout: default
 title:  Research
-modify_color: True
-color: fcfcfc
-textcolor: 160b03
 ---
 
 # Current  research

@@ -4,8 +4,6 @@ baseurl: "/~khanh" # the subpath of your site, e.g. /blog
 url: "https://u-aizu.ac.jp" # the base hostname & protocol for your site, e.g. http://example.com
 
 nav:
-   - title: Home
-     url: index.html
    - title: Research
      url: research.html
    - title: Publication

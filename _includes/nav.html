@@ -1,0 +1,10 @@
+			
+        	<div id="nav-menu">
+				<a href="{{ "/" | relative_url }}" class="nav-title">{{ site.title }} </a>
+				<div id="nav-right" class="nav-right">
+				{% for item in site.nav %}
+					<a class="{% if  page.url contains item.url %}active{% endif %}" href="{{ item.url }}">{{ item.title }}</a>
+				{% endfor %}
+				</div>
+				<a href="javascript:void(0);" style="font-size:15px;" class="icon" onclick="myFunction()">Menu &#9776;</a>
+			</div>
