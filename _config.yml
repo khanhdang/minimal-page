@@ -3,15 +3,6 @@ title: Khanh N. Dang
 baseurl: "/~khanh" # the subpath of your site, e.g. /blog
 url: "https://u-aizu.ac.jp" # the base hostname & protocol for your site, e.g. http://example.com
 
-nav:
-   - title: Research
-     url: research.html
-   - title: Publication
-     url: pub.html
-   - title: Contact
-     url: index.html#contact
-
-
 # Exclude from processing.
 exclude:
    - .sass-cache/
