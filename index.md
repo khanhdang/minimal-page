@@ -24,11 +24,10 @@ world.
 Email: khanh@u-aizu.ac.jp \[ [&#10159; Contact info](#contact) \]
 *(Note: Email is by far the best way to reach me.)*
 
-**Links**: [ [ORCID](https://orcid.org/0000-0001-6702-3870) \| [Google Scholar](https://scholar.google.com.vn/citations?user=mQbqkUMAAAAJ) \| [dblp](https://dblp.uni-trier.de/pid/184/5348.html) \| [Linkedin](https://www.linkedin.com/in/khanhndang) \| [WoS](https://www.webofscience.com/wos/author/record/2184844) \| [Github](https://github.com/khanhdang) \| [Google Patents](https://patents.google.com/?inventor=Nam+Khanh+Dang) \| [Lab Website](https://web-ext.u-aizu.ac.jp/misc/benablab/) ] 
+**Links**: [ [ORCID](https://orcid.org/0000-0001-6702-3870) \| [Google Scholar](https://scholar.google.com.vn/citations?user=mQbqkUMAAAAJ) \| [dblp](https://dblp.uni-trier.de/pid/184/5348.html) \| [Linkedin](https://www.linkedin.com/in/khanhndang) \| [WoS](https://www.webofscience.com/wos/author/record/2184844) \| [Github](https://github.com/khanhdang) \| [Google Patents](https://patents.google.com/?inventor=Nam+Khanh+Dang) \| [Lab Website](https://web-ext.u-aizu.ac.jp/misc/benablab/) \| [University Website](https://u-aizu.ac.jp/en) ] 
 
 
-<i>For prospective GT undergraduate and graduate students, research topics (VLSI design, fault-tolerance or neuromorphic computing) are available; interested potential candidates please send me an  <a href="#contact">email</a>. <br>
- Partial financial supports for graduate students (equivalent to tuition fee) are
+<i>For prospective GT undergraduate and graduate students, research topics (VLSI design, fault-tolerance or neuromorphic computing) are available; interested potential candidates please send me an  <a href="#contact">email</a>.  Partial financial supports for graduate students (equivalent to tuition fee) are
 also possible. </i>
 {: .announce}
 
@@ -69,7 +68,7 @@ JP2019092020A, Japan (patent pending) \[[Google Patent](https://patents.google.c
 
 1. *Second Prize* (the 2nd best) of **Vietnamese Nhan Tai Dat Viet Award 2015**. The Second Prize awarded to our VENGME H.264/AVC encoding chip which I took part in the design team.
 2. *Best Student Paper Award* at **International Symposium on Ubiquitous Networking (UNet 2021)** for paper:
-Ogbodo Mark Ikechukwu, Khanh N. Dang and Abderazek Ben. Abdallah, “Energy-efficient Spike-based Scalable Architecture for Next-generation Cognitive AI Computing Systems”. More details [\[here\]](assets/awards/2021-Unet.jpg).
+Ogbodo Mark Ikechukwu, Khanh N. Dang and Abderazek Ben. Abdallah, “Energy-efficient Spike-based Scalable Architecture for Next-generation Cognitive AI Computing Systems”.  [\[Certificate\]](assets/awards/2021-Unet.jpg)
 
 
 # Teaching
