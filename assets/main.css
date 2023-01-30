@@ -25,7 +25,8 @@ body {
 
 #content-section {
     margin: 0 auto;
-    width: 78%;
+    /* width: min(80%, 900px);  */
+    width: 900px;
 }
 
 
