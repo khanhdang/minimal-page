@@ -24,7 +24,7 @@ world.
 Email: khanh@u-aizu.ac.jp \[ [&#10159; Contact info](#contact) \]
 *(Note: Email is by far the best way to reach me.)*
 
-**Links**: [ [ORCID](https://orcid.org/0000-0001-6702-3870) \| [Google Scholar](https://scholar.google.com.vn/citations?user=mQbqkUMAAAAJ) \| [dblp](https://dblp.uni-trier.de/pid/184/5348.html) \| [Linkedin](https://www.linkedin.com/in/khanhndang) \| [WoS](https://www.webofscience.com/wos/author/record/2184844) \| [Github](https://github.com/khanhdang) \| [Google Patents](https://patents.google.com/?inventor=Nam+Khanh+Dang) ]
+**Links**: [ [ORCID](https://orcid.org/0000-0001-6702-3870) \| [Google Scholar](https://scholar.google.com.vn/citations?user=mQbqkUMAAAAJ) \| [dblp](https://dblp.uni-trier.de/pid/184/5348.html) \| [Linkedin](https://www.linkedin.com/in/khanhndang) \| [WoS](https://www.webofscience.com/wos/author/record/2184844) \| [Github](https://github.com/khanhdang) \| [Google Patents](https://patents.google.com/?inventor=Nam+Khanh+Dang) \| [Lab Website](https://web-ext.u-aizu.ac.jp/misc/benablab/) ] 
 
 
 <i>For prospective GT undergraduate and graduate students, research topics (VLSI design, fault-tolerance or neuromorphic computing) are available; interested potential candidates please send me an  <a href="#contact">email</a>. <br>
