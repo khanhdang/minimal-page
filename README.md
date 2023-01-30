@@ -3,7 +3,7 @@
 This is my website Jekyll template. The website can be written in pure HTML and css; however, I ported it to Jekyll for easier maintenance.
 All layouts are in pure HTML with simple CSS.
 
-[Demo](https://u-aizu.ac.jp/~khanh/).
+[Demo](https://khanhdang.github.io/minimal-page/).
 
 Some features (or maybe not really features at all):
 - No menu just for simplicity (a "back-to-homepage" link is added to each page). However, the navigation is enabled and a menu can be added.
