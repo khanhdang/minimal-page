@@ -1,6 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+
 body {
-    font-family: SF Pro Text, SF Pro Icons, Helvetica Neue, Helvetica, Arial, sans-serif;
-    font-size: 15px;
+    /* font-family: SF Pro Text, SF Pro Icons, Helvetica Neue, Helvetica, Arial, sans-serif; */
+    font-family: 'Inter', sans-serif;
+    font-size: 16px;
     line-height: 1.52947;
     font-weight: 400;
     letter-spacing: -.021em;
@@ -25,8 +28,8 @@ body {
 
 #content-section {
     margin: 0 auto;
-    /* width: min(80%, 900px);  */
-    width: 900px;
+    width: min(80%, 1200px);
+
 }
 
 
@@ -103,6 +106,7 @@ h3 {
     padding-top: 0.7em;
     margin-bottom: -0.4em;
 }
+
 
 .announce {
     color: tomato;
