@@ -17,3 +17,22 @@ exclude:
    - vendor/ruby/
    - README.md
    - Makefile
+
+
+menu:
+
+
+- title: Research
+  url: research.html
+
+- title: Publication
+  url: pub.html
+
+- title: Teaching
+  url: teaching.html
+
+- title:  Service
+  url: service.html
+
+- title: Contact
+  url: contact.html
