@@ -1,6 +1,14 @@
-			{% if page.title == "Home" %}
+			<!-- {% if page.title == "Home" %}
 			<span id="nav-title"><a href="{{ site.url }}{{ site.baseurl }}/index.html">{{ site.title }}</a></span></span>
 			{% else %}
 			<span id="nav-title"><a href="{{ site.url }}{{ site.baseurl }}/index.html">{{ site.title }}</a></span> &gt; <span id="nav-title"><a href="./">{{ page.title }}</a></span>
-			{% endif %}
+			{% endif %} -->
 
+			<a href="#home" class="active title">Home</a>
+			<div class="float-right">
+			<a href="#news">News</a>
+			<a href="#contact">Contact</a>
+			<a href="#about">About</a></div>
+			<a href="javascript:void(0);" class="icon" onclick="myFunction()">
+				&#8801;
+			</a>
