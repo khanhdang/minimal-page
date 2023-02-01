@@ -1,7 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
 
 body {
-    /* font-family: SF Pro Text, SF Pro Icons, Helvetica Neue, Helvetica, Arial, sans-serif; */
     font-family: 'Inter', sans-serif;
     font-size: 16px;
     line-height: 1.52947;
@@ -61,12 +60,15 @@ footer a {
     color: #cccccc;
 }
 
-#nav {
+.nav {
     padding-bottom: 0.6em;
     border-bottom: 1px solid #ececec;
 
 }
 
+.nav a {
+    text-decoration: none;
+}
 #nav-title {
     font-size: 130%;
     font-weight: 800;
@@ -83,11 +85,6 @@ footer a {
     #nav-menu {
         display: none;
     }
-}
-
-.nav-logo {
-    margin-top: -0.5em;
-    height: 35px;
 }
 
 h1 {
