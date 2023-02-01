@@ -166,7 +166,7 @@ h3 {
 }
 
 .scroll-news {
-    height: 240px;
+    height: 400px;
     overflow-y: scroll;
     line-height: 1.9em;
     font-size: 90%;
