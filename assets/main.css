@@ -34,7 +34,7 @@ body {
 
 a:link {
     color: #333;
-    text-decoration: underline;
+    /* text-decoration: underline; */
 }
 
 a:visited {
@@ -70,7 +70,7 @@ footer a {
     text-decoration: none;
 }
 #nav-title {
-    font-size: 130%;
+    font-size: 150%;
     font-weight: 800;
 
 }
@@ -88,12 +88,12 @@ footer a {
 }
 
 h1 {
-    font-size: 1.27em;
+    font-size: 1.47em;
     margin-bottom: -0.4em;
 }
 
 h2 {
-    font-size: 1.17em;
+    font-size: 1.27em;
     margin-bottom: -0.4em;
 
 }
