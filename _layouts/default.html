@@ -9,7 +9,7 @@
 
 <body>
     <div id="content-section">
-        <div class="nav sticky" id = "navbar">
+        <div class="nav" id = "navbar">
 			{% include nav.html %}
         </div>
 		
@@ -25,9 +25,13 @@
 <script>
     function myFunction() {
         var x = document.getElementById("navbar");
+        var b = document.getElementById("button"); 
         if (x.className === "nav") {
             x.className += " responsive";
+            b.innerHTML = "<img src=\"assets/images/menu-close.svg\"  height=\"25\">";
+
         } else {
+            b.innerHTML = "<img src=\"assets/images/menu-open.svg\"  height=\"25\">";
             x.className = "nav";
         }
     }

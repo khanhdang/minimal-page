@@ -90,8 +90,9 @@ hr {
 }
 
 .nav .icon {
-    padding: 14px 0px 14px 0px;
+    padding: 0px 0px 2px 0px;
     display: none;
+    font-size: 25px;
 }
 
 .nav a.title {
@@ -105,12 +106,13 @@ hr {
     .nav a {
         display: none;
         padding: 14px 16px 14px 0px;
-        font-size: 20px;
+        font-size: 17px;
 
     }
 
     .nav a.title {
         display: block;
+        font-size: 17px;
 
     }
 
