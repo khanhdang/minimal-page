@@ -8,7 +8,7 @@ All layouts are in pure HTML with simple CSS.
 Some features (or maybe not really features at all):
 - No menu just for simplicity (a "back-to-homepage" link is added to each page). However, the navigation is enabled and a menu can be added.
 - Mobile friendly with menu button
-- Lightweight (8 lines of Javascript, 222 lines of CSS) 
+- Lightweight (10 lines of Javascript, 222 lines of CSS) 
 
 # Run
 

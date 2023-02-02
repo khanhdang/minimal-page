@@ -7,14 +7,14 @@ title: Publication
 Disclaimer: This page contains PDF files of articles that might be covered by copyright. Please do not retrieve, copy, or distribute these files as it may violate copyright protection laws.
 {: .announce }
 
-## Book/Book chapters 
+## Book/Book chapter
 
 1. [Book] Abderazek Ben Abdallah and **Khanh N. Dang** (Authors), *"Neuromorphic Computing Principles and Organization”*, 1st edition, Publisher: Springer, ISBN-10: 3030925242, ISBN-13: 978-3030925246. \[[Springer](https://link.springer.com/book/9783030925246)\], \[[Amazon](https://www.amazon.com/dp/3030925242/ref=cm_sw_em_r_mt_dp_FDNTBNH4591SBQ769MZH)\], \[[Amazon-JP](https://www.amazon.co.jp/dp/3030925242/ref=cm_sw_em_r_mt_dp_FDNTBNH4591SBQ769MZH)\]
 2. [Book Chapter] Xuan-Tu Tran, **Khanh N. Dang**, Duy-Hieu Bui, and Alain Merigot, *"Low Cost Inter-prediction Architecture in H.264/AVC Encoders with an Efficient Data Reuse Strategy"*, Advances in Engineering Research. Volume 40, Chapter 6. **Nova Science Publishers**, 2020. ISBN 978-1-53618-929-2. \[[LINK](https://novapublishers.com/shop/advances-in-engineering-research-volume-40/)\]. 
 3. [Book Chapter] **Khanh N. Dang** and Abderazek Ben Abdallah, *"Architecture and Design Methodology for Highly-Reliable TSV-NoC Systems"*, Invited Book Chapter, Horizons in Computer Science Research. Volume 16, Chapter 7. **Nova Science Publishers**, 2018. ISBN: 978-1-53613-327-1. \[[LINK](https://novapublishers.com/shop/horizons-in-computer-science-research-volume-16/)\]/\[[PDF](http://adaptive.u-aizu.ac.jp/aslwp/wp-content/uploads/2018/03/Dng_Benab_NOVA_Chapter_2018.pdf)\].
 {: reversed="reversed"}
 
-## Journal papers  (peer-reviewed)
+## Journal paper 
 
 1. Duy-Anh Nguyen, Xuan-Tu Tran, **Khanh N. Dang**, and Francesca Iacopi, *"A Low-Power, High-Accuracy with Fully On-Chip Ternary Weight Hardware Architecture for Deep Spiking Neural Networks"*, **Microprocessors and Microsystems**, Elsevier, Volume 90, pp. 104458, 2022. \[[DOI: 10.1016/j.micpro.2022.104458](https://doi.org/10.1016/j.micpro.2022.104458)\] \[[PDF](./share/pubs/MICPRO-2022.pdf)\] \[[Source code](https://github.com/khanhdang/TW-SNN)\]. 
 2.  **Khanh N. Dang**, Nguyen Anh Vu Doan, Abderazek Ben Abdallah *"MigSpike: A Migration Based Algorithm and Architecture for Scalable Robust Neuromorphic Systems"*,  **IEEE Transactions on Emerging Topics in Computing (TETC)**,  IEEE, Volume 10, Issue 2, pp. 602-617, 2022.  \[[DOI: 10.1109/TETC.2021.3136028](https://doi.org/10.1109/TETC.2021.3136028)\] \[[PDF](./share/pubs/TETC-2021.pdf)\].
@@ -32,7 +32,7 @@ Disclaimer: This page contains PDF files of articles that might be covered by co
 
 
 
-## Conference papers (peer-reviewed)
+## Conference paper
 
 1. Tomohide Fukuchi,   Mark Ikechukwu Ogbodo, Jiangkun Wang,  **Khanh N. Dang** and Abderazek Ben Abdallah , *''Efficient Pneumonia Detection Method and Implementation in Chest X-ray Images Based on a Neuromorphic Spiking Neural Network''*, Springer Lecture Notes in Computer Science (LNCS), **14th International Conference on Computational Collective Intelligence Technologies and Applications**, September 24-26, 2022.
 1. Ogbodo Mark Ikechukwu, **Khanh N. Dang** and Abderazek Ben Abdallah, *"Study of a Multi-modal Neurorobotic Prosthetic Arm Control System based on Recurrent Spiking Neural Network"*, Springer Lecture  Note in Computer Science (LNCS), **The 4th ETLTC International Conference on ICT Integration in Technical Education (ETLTC2022)**, January 25-28, 2022. 
@@ -59,7 +59,7 @@ Disclaimer: This page contains PDF files of articles that might be covered by co
 {: reversed="reversed"}
 
 
-## Other journal  papers (peer-reviewed)
+## Domestical journal  paper
 
 1. **Khanh N. Dang**, Akram Ben Ahmed, Ben Abdallah Abderrazak and Xuan-Tu Tran, *"Thermal distribution and reliability prediction for 3D Networks-on-Chip"*, **VNU Journal of Computer Science and Communication Engineering**, VNU, Volume 36, No 1, pp. 65-77, 2020. \[[DOI:10.25073/2588-1086/vnucsce.245]( https://doi.org/10.25073/2588-1086/vnucsce.245)\].
 2.  **Khanh N. Dang**, Michael Meyer, Akram Ben Ahmed, Abderazek Ben Abdallah, and Xuan-Tu Tran, *"2D Parity Product Code for TSV online fault correction and detection"*, **REV Journal on Electronics and Communications (JEC)**, REV, pp. 11-21, Vol. 8, No. 1-2, Jan. - Jun., 2020. \[[DOI: 10.21553/rev-jec.242](http://dx.doi.org/10.21553/rev-jec.242)\]. 
@@ -67,7 +67,7 @@ Disclaimer: This page contains PDF files of articles that might be covered by co
 4.  Ngoc-Mai Nguyen, Edith Beigne, Duy-Hieu Bui, **Nam-Khanh Dang**, Suzanne Lesecq, Pascal Vivet, Xuan-Tu Tran, *"An Overview of H.264 Hardware Encoder Architectures including Low-Power Features"*, **REV Journal on Electronics and Communications (JEC)**, REV, pp. 8-17, Vol. 4, No. 1-2, Jan. - Jun., 2014. \[[DOI:10.21553/rev-jec.72](http://dx.doi.org/10.21553/rev-jec.72)\].
 {: reversed="reversed"}
 
-## Invited talks
+## Invited talk
 
 1. **Khanh N. Dang**, *"Robust Cognitive Brain-inspired Computing System: Architectures and Algorithms"*, **2022 4th International Conference on ICT Integration in Technical Education (ETLTC2022)**, Aizu-Wakamatsu, Japan, Jan 2022 (Plenary). \[[SLIDE](./share/pubs/ETLTC-2022.pdf)\].
 2. **Khanh N. Dang**,*"Fault-Tolerance Through-Silicon-Via For 3-D Integrated Circuits"*, **Advanced Institute of Engineering and Technology**, VNU-UET, VNU, Vietnam, 2021. \[[SLIDE](./share/pubs/AVITECH-2021.pdf)\].

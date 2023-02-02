@@ -6,13 +6,13 @@ title: Teaching
 
 # Teaching
 
-## Current Courses 
+## Current Course
 - PL03: プログラミングJAVA I \| JAVA Programming I (Ex.), University of Aizu, *Undergraduate*,  Q1.
 - FU03: 離散系論 \| Discrete Systems (Lec./Ex.), University of Aizu, *Undergraduate*, Q2.
 - SE08: データマイニング概論 \| Introduction of Data Mining (Ex.), University of Aizu, *Undergraduate*, Q3.
 - FU06: オペレーティングシステム論 \| Operating Systems (Ex.), University of Aizu, *Undergraduate*,  Q4.
 
-## Previous Courses
+## Previous Course
   
 - INT2212: Computer Architecture, VNU-UET, *Undergraduate*.
 - ELT3071: Real-time Embedded Systems, VNU-UET, *Undergraduate*.

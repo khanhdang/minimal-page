@@ -3,18 +3,17 @@ layout: default
 title:  Research
 ---
 # Research 
-## Current  research
 
-### Neuromorphic Computing
+## Neuromorphic Computing
 Inspired by the structure and function of the human brain, we design neuromorphic computers/chips consisting of physical artificial neurons (made from silicon) to do computations of a mimic version of biological brains. Here, we focus on digital approach in combination with 3D Integrated Circuits and Network-on-Chip. Our system is designed on both hardware (Verilog HDL) and software model (Python). 
 
-### Machine Learning/Optimization for Computer-Aided Design
+## Machine Learning/Optimization for Computer-Aided Design
 We target to solve complicated problem of Computer-Aided Design using machine learning and optimization technique. Despite being decided by the designers, we aim to develop the platform to generate the design. Our main focus is  using Genetic Algorithm/Reinforcement Learning on thermal awareness and reliability.
 
 For prospective GT undergraduate and graduate students, please visit my office if you have any related questions about the research topics. Please send me an email to arrange the apointment (online or offline).  
 {: .announce}
 
-## Patents
+## Patent
 
 1. **Khanh N. Dang**, A. Ben Abdallah, *“Program for generating migration flows for homogeneous computing systems and homogeneous computing devices” [ホ モジニアスコンピューティングシステム及びホモジニアスコ ンピューティングデバイスのマイグレーションフローの生成 プログラム]*, 特願 2022-196416, Japan patent, (filed patent).
 1. A. Ben Abdallah, Zhishang Wang, **Khanh N. Dang**, Masayuki Hisada, *“EV Power Consumption Prediction Method and System for Power Management in Smart Grid [ スマートグリッドにおける電力管理のためのEV消 費電力予測 方法とシステム ]”*, 特願2020-194733, Japan patent, 2022 (filed patent).
@@ -25,7 +24,7 @@ For prospective GT undergraduate and graduate students, please visit my office i
 JP2019092020A, Japan (patent pending) \[[Google Patent](https://patents.google.com/patent/JP2019092020A/en)\].
 {: reversed="reversed"}
 
-## Grants 
+## Grant
 
 1. *"Hotspot aware Fault-Tolerant Architectures and Algorithms for TSV-based 3D Network-on-Chips"*, main PI, funded by **National Foundation for Science and Technology Development (NAFOSTED)** under *No. 102.01-2018.312* (2019-2021).
 1. *"Soft Error Resilient Architecture and Algorithm for Network-on-Chip"* : main PI, funded by **VNU University of Engineering and Technology (VNU-UET)** under project *No. CN18.10* (2018-2019).
@@ -33,7 +32,7 @@ JP2019092020A, Japan (patent pending) \[[Google Patent](https://patents.google.c
 1. *"Reconfiguration Solution in Designing Network-on-Chip Architectures "*, core member, funded by **National Foundation for Science and Technology Development (NAFOSTED)** under *No. 102.01-2013.17* (2014-2016).
 1. *"Investigation, Design, and Implementation of a Video Encoder for Next Generation Multimedia Equipment"*, core member, funded by  **Vietnam National University, Hanoi (VNU)** under *No. QGĐA.10.02* (2010-2013).
 
-## Awards
+## Award
 
 1. *Second Prize* (the 2nd best) of **Vietnamese Nhan Tai Dat Viet Award 2015**. The Second Prize awarded to our VENGME H.264/AVC encoding chip which I took part in the design team.
 2. *Best Student Paper Award* at **International Symposium on Ubiquitous Networking (UNet 2021)** for paper:

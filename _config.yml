@@ -19,8 +19,8 @@ exclude:
    - Makefile
 
 
+# For generating the menu
 menu:
-
 
 - title: Research
   url: research.html
