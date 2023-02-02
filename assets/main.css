@@ -6,6 +6,7 @@ body {
     font-weight: 400;
     letter-spacing: -.021em;
     word-spacing: 0.1em;
+    margin: 0px 0px 0px 0px;
 }
 
 .avatar {
@@ -91,7 +92,7 @@ hr {
 }
 
 .nav .icon {
-    padding: 3px 0px 0px 0px;
+    padding: 6px 0px 0px 0px;
     display: none;
     font-size: 25px;
 }
@@ -228,7 +229,10 @@ b, strong {
         margin: 0 auto;
         width: 100%;
     }
-
+    .content {
+        margin-left: 8px;
+        margin-right: 8px;
+    }
     h2, h3, h4 {
         margin-block-start: 0.3em;
         margin-block-end: 0.3em;

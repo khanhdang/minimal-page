@@ -13,7 +13,7 @@
 			{% include nav.html %}
         </div>
 		
-		<div id= "content">
+		<div class= "content">
         	{{ content }}
 		</div>
 		
@@ -23,14 +23,14 @@
 
 
 <script>
-    function myFunction() {
+    function switchnav() {
         var x = document.getElementById("navbar");
         var b = document.getElementById("button"); 
         if (x.className === "nav") {
+            b.innerHTML = "<i class=\"fa fa-times\"></i>";
             x.className += " responsive";
-            b.innerHTML = "<img src=\"assets/images/menu-close.svg\"  height=\"25\">";
         } else {
-            b.innerHTML = "<img src=\"assets/images/menu-open.svg\"  height=\"25\">";
+            b.innerHTML = "<i class=\"fa fa-bars\"></i>";
             x.className = "nav";
         }
     }
