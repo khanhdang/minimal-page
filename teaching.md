@@ -14,10 +14,12 @@ title: Teaching
 
 ## Previous Course
   
-- INT2212: Computer Architecture, VNU-UET, *Undergraduate*.
-- ELT3071: Real-time Embedded Systems, VNU-UET, *Undergraduate*.
-- INT3409: Robotics Programming, VNU-UET, *Undergraduate*.
-- ELT2401: Digital Electronics, VNU-UET, *Undergraduate*.
-- SYC04: Advanced Computer Organization, Uni. of Aizu, *Graduate*, invited lecturer, 2019.
-- SYC04: Advanced Computer Organization, Uni. of Aizu, *Graduate*, invited lecturer, 2021.
+- INT2212: Computer Architecture, Vietnam National University, *Undergraduate*.
+- ELT3071: Real-time Embedded Systems, Vietnam National University, *Undergraduate*.
+- INT3409: Robotics Programming, Vietnam National University, *Undergraduate*.
+- ELT2401: Digital Electronics, Vietnam National University, *Undergraduate*.
+
+## Invited Lecturer (1-2 sessions)
+- SYC04: Advanced Computer Organization, Uni. of Aizu, *Graduate*, 2019.
+- SYC04: Advanced Computer Organization, Uni. of Aizu, *Graduate*, 2021.
 
