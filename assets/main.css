@@ -8,14 +8,12 @@ body {
     word-spacing: 0.1em;
     margin: 0px 0px 0px 0px;
     padding: 0px 0px 0px 0px;
-    background-color: #fffaf9;
 }
 
 .avatar {
     display: block;
     border-radius: 50%;
     box-sizing: border-box;
-    background-color: #DDD;
     float: right;
     width: 150px;
     top: 0rem;
