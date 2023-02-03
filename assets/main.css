@@ -8,6 +8,7 @@ body {
     word-spacing: 0.1em;
     margin: 0px 0px 0px 0px;
     padding: 0px 0px 0px 0px;
+    background-color: #F5F5F7;
 }
 
 .avatar {
@@ -75,7 +76,7 @@ hr {
     float: left;
     display: block;
     color: #000000;
-    background-color: #ffffff;
+    background-color: #F5F5F7;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -93,9 +94,9 @@ hr {
 }
 
 .nav .icon {
-    padding: 6px 0px 0px 0px;
+    padding: 14px 0px 0px 0px;
     display: none;
-    font-size: 25px;
+    /* font-size: 25px; */
 }
 
 .nav a.title {
