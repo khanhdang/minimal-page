@@ -86,7 +86,7 @@ hr {
 }
 
 
-.nav .float-right {
+.nav .menu {
     float: right;
 }
 
@@ -120,13 +120,16 @@ hr {
 
     }
 
-    .nav .float-right {
+    .nav .menu {
         float: left;
     }
 
     .nav a.icon {
-        float: right;
+        position: absolute;
+        float: none;
         display: block;
+        right: 8px;
+        top: 0;
     }
 }
 
@@ -135,11 +138,7 @@ hr {
         position: relative;
     }
 
-    .nav.responsive .icon {
-        position: absolute;
-        right: 8px;
-        top: 0;
-    }
+
 
     .nav.responsive a {
         float: none;
