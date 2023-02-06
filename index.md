@@ -19,9 +19,7 @@ particular, I have a strong interest in building on the 3D Integrated Circuit ba
 architecture that is highly-reliable and scalable enough to be safely and responsibly deployed in the real
 world. 
 
-
-**Links**: [ [ORCID](https://orcid.org/0000-0001-6702-3870) \| [Google Scholar](https://scholar.google.com.vn/citations?user=mQbqkUMAAAAJ) \| [dblp](https://dblp.uni-trier.de/pid/184/5348.html) \| [Linkedin](https://www.linkedin.com/in/khanhndang) \| [WoS](https://www.webofscience.com/wos/author/record/2184844) \| [Github](https://github.com/khanhdang) \| [Google Patents](https://patents.google.com/?inventor=Nam+Khanh+Dang) \| [Lab Website](https://web-ext.u-aizu.ac.jp/misc/benablab/) ] 
-
+**Email**: khanh@u-aizu.ac.jp \| **Contact**: [Contact Info](contact.html) \| [Resume](share/khanh_cv.pdf) *(Last update: Jan 2023)*
 
 For prospective GT undergraduate and graduate students, research topics (VLSI design, fault-tolerance or neuromorphic computing) are available; interested potential candidates please send me an email.  Partial financial supports for graduate students (equivalent to tuition fee) are
 also possible. 
