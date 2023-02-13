@@ -8,15 +8,19 @@
 </head>
 
 <body>
-    <div class="content-section">
+    <div class="header-section sticky" id ="header ">
         <div class="nav" id = "navbar">
 			{% include nav.html %}
         </div>
-		
+    </div>
+    <div class="content-section">
+
 		<div class= "content">
         	{{ content }}
 		</div>
-		
+    </div>
+    <div class="footer-section">
+
 		{% include footer.html %}
     </div>
 </body>

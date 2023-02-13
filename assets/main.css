@@ -27,6 +27,18 @@ body {
 .content-section {
     margin: 0 auto;
     width: min(80%, 1200px);
+    min-height: calc(100vh - 56px - 41px);  /*minus height of header and footer */
+
+}
+@media screen and (max-width: 895px) {
+
+    .content-section {
+        min-height: calc(100vh - 51px - 83px);  /*minus height of header and footer */
+    
+    }
+.header-section {
+    margin: 0 auto;
+    border-bottom: 1px solid #ececec;
 }
 
 a:link {
@@ -41,14 +53,22 @@ a:hover {
     color: tomato;
 }
 
+.footer-section {
+    margin: 0 auto;
+    border-top: 1px solid #e9ecef;
+}
+
+
 .footer {
+    width: min(80%, 1200px);
+    margin-left: auto;
+    margin-right: auto;
     font-size: 90%;
     padding-top: 0.1em;
     padding-top: 0.75em;
     padding-bottom: 0.75em;
     text-align: center;
     color: #cccccc;
-    border-top: 1px solid #e9ecef;
 }
 
 .footer a {
@@ -63,8 +83,9 @@ hr {
 
 .nav {
     overflow: hidden;
-    border-bottom: 1px solid #ececec;
-
+    width: min(80%, 1200px);
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .nav a {
@@ -91,6 +112,13 @@ hr {
     padding: 14px 0px 0px 0px;
     display: none;
 }
+.nav a.icon {
+    position: absolute;
+    float: none;
+    display: none;
+    right: 8px;
+    top: 0;
+}
 
 .nav a.title {
     padding: 13px 16px 13px 0px;
@@ -99,13 +127,18 @@ hr {
 }
 
 @media screen and (max-width: 895px) {
+    .content-section {
+        width: 100%;
+        margin: 0;
+        padding: 0;
+    }
     .nav {
-        padding-left: 8px;
-        padding-right: 8px;
+        width: calc(100% - 16px);
     }
     .nav a {
         display: none;
         padding: 14px 16px 14px 0px;
+        text-align: left;
         font-size: 1rem;
     }
 
@@ -119,22 +152,12 @@ hr {
         width: 100%;
 
     }
-    /* .nav .menu a {
-        border-top: 1px solid #ececec;
-    } */
     .nav a.icon {
-        position: absolute;
-        float: none;
         display: block;
-        right: 8px;
-        top: 0;
     }
 }
 
 @media screen and (max-width: 895px) {
-    .nav.responsive {
-        position: relative;
-    }
     .nav.responsive a {
         float: none;
         display: block;
@@ -142,6 +165,19 @@ hr {
     }
 }
 
+.sticky {
+  position: fixed;
+  background-color: #fff;
+  top: 0;
+  width: 100%;
+  transition: max-height 0.15s ease-out;
+
+}
+
+.sticky + .content-section {
+    padding-top: 50px;
+
+}
 h1 {
     font-size: 1.27em;
     margin-bottom: -0.4em;
@@ -204,7 +240,6 @@ b, strong {
     border-radius: 5px;
     background: #cccccc;
 }
-
 
 
 @media (max-width: 895px) {
