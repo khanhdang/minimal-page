@@ -10,7 +10,7 @@ title: Service
 
 ## Conferences Organizing
 - TPC co-chair: IEEE MCSoC 2019, IEEE APPCAS 2020, IEEE MCSoC 2021, IEEE MCSoC 2022
-- Publication chair: IEEE MCSoC 2018
+- Publication chair: IEEE MCSoC 2018, IEEE MCSoC 2023
 - Session chair: IEEE APCCAS 2021
 - TPC member: IEEE MCSoC 2018, IEEE MCSoC 2019, IEEE ICCE 2020, IEEE APCCAS 2020, IEEE MCSoC 2021, IEEE APCCAS 2021
 

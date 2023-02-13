@@ -99,7 +99,7 @@ hr {
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
-    font-size: 1rem;
+    font-size: 0.95rem;
 }
 
 .nav a:hover {
@@ -111,6 +111,12 @@ hr {
     float: right;
 }
 
+.nav .m-icon {
+    padding: 6px 0px 0px 0px;
+    /* padding: 14px 0px 0px 0px; */
+    /* height: 20px; */
+    height: 14px;
+}
 .nav .icon {
     padding: 14px 0px 0px 0px;
     display: none;
@@ -125,7 +131,8 @@ hr {
 
 .nav a.title {
     padding: 13px 16px 13px 0px;
-    /* font-weight: bolder; */
+    /* color: tomato; */
+    font-weight: 500;
     /* font-size: 1.2rem; */
 }
 
@@ -219,7 +226,7 @@ b, strong {
 }
 
 .scroll-news {
-    height: 300px;
+    height: min(650px, max(300px, calc(100vh - 600px)));
     overflow-y: scroll;
     line-height: 1.9em;
     font-size: 90%;

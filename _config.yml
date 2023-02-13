@@ -1,5 +1,5 @@
 
-title: Khánh's Research Page
+title:  Khanh N. Dang
 baseurl: "/~khanh" # the subpath of your site, e.g. /blog
 url: "https://u-aizu.ac.jp" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -36,3 +36,6 @@ menu:
 
 - title: Contact
   url: contact.html
+
+# - title: <img alt="logo" src="assets/images/favicon.png" class="m-icon">
+#   url: https://web-int.u-aizu.ac.jp/~khanh/
