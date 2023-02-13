@@ -3,8 +3,10 @@ layout: default
 title: Home
 ---
 
+# Welcome! ようこそ！
+
 <img src="assets/images/Khanh_N_DANG.jpg" class="avatar" alt="Avatar" />
-Hi! My name is Khanh N. Dang. I am currently an *Associate Professor* in the Division of Computer Engineering, Department of Computer
+My name is Khanh N. Dang. I am currently an *Associate Professor* in the Division of Computer Engineering, Department of Computer
 Science and Engineering,
 [The University of Aizu](https://www.u-aizu.ac.jp/en/). I received my Ph.D. from University of
 Aizu
@@ -25,7 +27,6 @@ For prospective GT undergraduate and graduate students, research topics (VLSI de
 also possible. 
 {: .announce}
 
----
 
 ## News
 
