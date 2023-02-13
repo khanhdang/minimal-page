@@ -36,6 +36,7 @@ body {
         min-height: calc(100vh - 51px - 83px);  /*minus height of header and footer */
     
     }
+}
 .header-section {
     margin: 0 auto;
     border-bottom: 1px solid #ececec;
