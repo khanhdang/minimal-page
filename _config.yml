@@ -40,10 +40,10 @@ menu:
 - title:  Service
   url: service.html
 
-# - title: Group Member 
-#   url: grp_mem.html
+- title: Group Member
+  url: grp_mem.html
 
-- title: Student's Project
+- title: Mentoring
   url: mentor.html
 
 - title: Contact

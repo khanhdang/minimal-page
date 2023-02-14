@@ -1,18 +1,13 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
 body {
-    /* font-family: SF Pro Text, SF Pro Icons, Helvetica Neue, Helvetica, Arial, sans-serif;
-     */
-    /* font-family: 'Poppins', sans-serif; */
     font-family: 'Inter', sans-serif;
     font-size: 15px;
-    /* font-weight: 300; */
     line-height: 1.52947;
     letter-spacing: -.021em;
     word-spacing: 0.1em;
     margin: 0px 0px 0px 0px;
     padding: 0px 0px 0px 0px;
-    
 }
 
 .avatar {
@@ -33,7 +28,6 @@ body {
 .content-section {
 
     margin: 0 auto;
-    /* width: min(80%, 880px); */
     width: 880px;
     min-height: calc(100vh - 56px - 41px);  /*minus height of header and footer */
 
@@ -69,11 +63,10 @@ a:hover {
 
 
 .footer {
-    /* width: min(80%, 880px); */
     width: 880px;
     margin-left: auto;
     margin-right: auto;
-    font-size: 90%;
+    font-size: 0.85em;
     padding-top: 0.1em;
     padding-top: 0.75em;
     padding-bottom: 0.75em;
@@ -100,7 +93,6 @@ hr {
 
 .nav {
     overflow: hidden;
-    /* width: min(80%, 880px); */
     width: 880px;
     margin-left: auto;
     margin-right: auto;
@@ -115,7 +107,7 @@ hr {
     padding: 14px 16px;
     text-decoration: none;
     /* font-weight: 300; */
-    /* font-size: 0.95rem; */
+    font-size: 0.8rem;
 }
 
 .nav a:hover {
@@ -148,7 +140,7 @@ hr {
 .nav a.title {
     padding: 13px 16px 13px 0px;
     /* color: tomato; */
-    font-weight: 500;
+    font-weight: 600;
     /* font-size: 1.2rem; */
 }
 
@@ -206,19 +198,6 @@ hr {
 
 }
 
-@media screen and (max-width: 895px) {
-
-    /* remove .sticky to save space on mobile */
-    .sticky {
-        position: relative; 
-      }
-      
-      .sticky + .content-section {
-        padding-top: 0px;
-      }
-}
-
-
 
 
 h1 {
@@ -226,7 +205,7 @@ h1 {
     margin-bottom: -0.4em;
     padding-bottom: 0.7em;
     text-align: center;
-    font-weight: 500;
+    font-weight: 700;
     color:#444;
     /* border-bottom: #e9ecef 1px solid; */
 }
@@ -328,7 +307,7 @@ b, strong {
     color: white;
     cursor: pointer;
     padding: 12px;
-    border-radius: 4px;
+    border-radius: 7px;
 }
 
 #toTopButton::after {

@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Student's Project
+title: Mentoring
 ---
-# Student's Project
+# Mentoring
 
 I am happy to have chances to work with some students in the past.
 The followings are  projects by my students, not mine. I was helping with some sort of guidance. 
@@ -20,7 +20,7 @@ Designing a small game on Artix7 (AC701) with dual-core Microblazes (one control
 - Xilinx SDK: [github](https://github.com/RTES-Class/AC701-DualMB-SW)
 - Project files: [2018-F](https://github.com/RTES-Class/2018-F)
 
-#### Some demos
+#### Demos
 
 
 
@@ -62,7 +62,7 @@ Designing a small game on Artix7 (AC701) with dual-core Microblazes (one control
 
 ## Student's Contest
 
-### Magic Spoon
+### Vibration Compensated Spoon
 [Facebook news by IEEE CASS Malaysia!](https://www.facebook.com/ieee.cass.my/posts/443741972987477)
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fieee.cass.my%2Fposts%2Fpfbid0gWhx6YnBWgTmV3N5qk6dQjvaPVzKeybkULrfPnHYMum2YEJZngA6xKmVzT8hYGWJl&show_text=true&width=500" width="100%" height="786" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
