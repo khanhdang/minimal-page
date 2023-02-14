@@ -43,8 +43,8 @@ menu:
 - title: Group Member
   url: grp_mem.html
 
-- title: Mentoring
-  url: mentor.html
+# - title: Mentoring
+#   url: mentor.html
 
 - title: Contact
   url: contact.html
