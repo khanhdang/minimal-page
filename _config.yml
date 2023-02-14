@@ -25,6 +25,12 @@ menu:
 - title: Research
   url: research.html
 
+# - title: Grant
+#   url: grant.html
+
+# - title: Patent
+#   url: patent.html
+
 - title: Publication
   url: pub.html
 
@@ -33,6 +39,12 @@ menu:
 
 - title:  Service
   url: service.html
+
+- title: Group Member 
+  url: grp_mem.html
+
+- title: Student's Project
+  url: mentor.html
 
 - title: Contact
   url: contact.html

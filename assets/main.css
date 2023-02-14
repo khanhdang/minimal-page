@@ -28,7 +28,8 @@ body {
 .content-section {
 
     margin: 0 auto;
-    width: min(80%, 980px);
+    /* width: min(80%, 880px); */
+    width: 880px;
     min-height: calc(100vh - 56px - 41px);  /*minus height of header and footer */
 
 }
@@ -63,7 +64,8 @@ a:hover {
 
 
 .footer {
-    width: min(80%, 980px);
+    /* width: min(80%, 880px); */
+    width: 880px;
     margin-left: auto;
     margin-right: auto;
     font-size: 90%;
@@ -86,7 +88,8 @@ hr {
 
 .nav {
     overflow: hidden;
-    width: min(80%, 980px);
+    /* width: min(80%, 880px); */
+    width: 880px;
     margin-left: auto;
     margin-right: auto;
 }
@@ -189,6 +192,22 @@ hr {
     padding-top: 55px;
 
 }
+
+@media screen and (max-width: 895px) {
+
+    /* remove .sticky to save space on mobile */
+    .sticky {
+        position: relative; 
+      }
+      
+      .sticky + .content-section {
+        padding-top: 0px;
+      }
+}
+
+
+
+
 h1 {
     font-size: 1.7em;
     margin-bottom: -0.4em;
@@ -226,7 +245,7 @@ b, strong {
 }
 
 .scroll-news {
-    height: min(650px, max(300px, calc(100vh - 600px)));
+    height: min(650px, max(270px, calc(100vh - 600px)));
     overflow-y: scroll;
     line-height: 1.9em;
     font-size: 90%;

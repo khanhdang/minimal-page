@@ -10,10 +10,10 @@ My name is Khanh N. Dang. I am currently an *Associate Professor* in the Divisio
 Science and Engineering,
 [The University of Aizu](https://www.u-aizu.ac.jp/en/). I received my Ph.D. from University of
 Aizu
-and my M.Sc. from University of Paris XI (Paris-Saclay University since 2019). Prior to joining the
+and my M.Sc. from [Paris-Sud University](https://en.wikipedia.org/wiki/Paris-Sud_University) ([Paris-Saclay University](https://www.universite-paris-saclay.fr/en) since 2019). Prior to joining the
 University
 of Aizu's faculty,
-I was a faculty member of Vietnam National University, Hanoi. I also worked at [Dolphin-IC](https://www.dolphin-ic.com/) in the past.
+I was a faculty member of [Vietnam National University, Hanoi](https://vnu.edu.vn/eng/). I also worked at [Dolphin-IC](https://www.dolphin-ic.com/) in the past.
 
 **Research Interests:** My research spans *VLSI design*, *thermal-awareness*,
 *fault-tolerance* and *neuromorphic computing*. In
