@@ -332,10 +332,10 @@ b, strong {
 }
 
 #toTopButton::after {
-    content: "⇧";
+    content: url("images/up.svg");
     font-weight: normal;
     font-style: normal;
-    font-size: 1.5em;
+    font-size: 1em;
     line-height: 14px;
     color: #fff;
 }
