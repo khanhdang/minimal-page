@@ -35,7 +35,7 @@ Disclaimer: This page contains PDF files of articles that might be covered by co
 
 
 ## Conference paper
-1. Jiangkun Wang, **Khanh N. Dang** and Abderazek Ben Abdallah, "Scaling Deep-Learning Pneumonia Detection Inference on a Reconfigurable Self-Contained Hardware Platform", 2023 IEEE 6th International Conference on Electronics Technology (ICET), May 12-15, 2023. *(accepted)*
+1. Jiangkun Wang, **Khanh N. Dang** and Abderazek Ben Abdallah, *"Scaling Deep-Learning Pneumonia Detection Inference on a Reconfigurable Self-Contained Hardware Platform"*, **2023 IEEE 6th International Conference on Electronics Technology (ICET)**, May 12-15, 2023. *(accepted)*
 2. Cheng Hong, Sinchhean Phea, **Khanh N. Dang**, Abderazek Ben Abdallah, *"The AIzuHand Neuromorphic Prosthetic Hand"*, **The 5th ETLTC International Conference on ICT Integration in Technical Education (ETLTC2023)**, January 24-27, 2023.
 3. Masaki Watanabe, **Khanh N. Dang**, Abderazek Ben Abdallah, *"Multimodal sEMG and Speech-Based Design and Evaluation of a Low-Cost",* **The 5th ETLTC International Conference on ICT Integration in Technical Education (ETLTC2023)**, January 24-27, 2023.
 4. Tomohide Fukuchi,   Mark Ikechukwu Ogbodo, Jiangkun Wang,  **Khanh N. Dang** and Abderazek Ben Abdallah , *"Efficient Pneumonia Detection Method and Implementation in Chest X-ray Images Based on a Neuromorphic Spiking Neural Network"*, Springer Lecture Notes in Computer Science (LNCS), **14th International Conference on Computational Collective Intelligence Technologies and Applications**, September 24-26, 2022.
