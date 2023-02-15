@@ -10,8 +10,11 @@ Inspired by the structure and function of the human brain, we design neuromorphi
 ## Machine Learning/Optimization for Computer-Aided Design
 We target to solve complicated problem of Computer-Aided Design using machine learning and optimization technique. Despite being decided by the designers, we aim to develop the platform to generate the design. Our main focus is  using Genetic Algorithm/Reinforcement Learning on thermal awareness and reliability.
 
-For prospective GT undergraduate and graduate students, please visit my office if you have any questions about the research topics. Please send me an email to arrange the appointment.  
-{: .announce}
+## Undervolted/Near-Threshold Computing
+Beside conventional computing, lowering the operating voltage to near the threshold can help significantly reduce the power consumption. However, lowering the operating voltage make the system more vulnerable to noise. In this research topic, we investigate on the impact of lowering the voltage on chip design and how to handle the noise.
+
+<!-- For prospective GT undergraduate and graduate students, please visit my office if you have any questions about the research topics. Please send me an email to arrange the appointment.  
+{: .announce} -->
 
 ## Patent
 

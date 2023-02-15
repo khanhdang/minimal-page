@@ -7,11 +7,13 @@ title: Publication
 Disclaimer: This page contains PDF files of articles that might be covered by copyright. Please do not retrieve, copy, or distribute these files as it may violate copyright protection laws.
 {: .announce }
 
-## Book/Book chapter
+## Book
 
-1. [Book] Abderazek Ben Abdallah and **Khanh N. Dang** (Authors), *"Neuromorphic Computing Principles and Organization”*, 1st edition, Publisher: Springer, ISBN-10: 3030925242, ISBN-13: 978-3030925246. \[[Springer](https://link.springer.com/book/9783030925246)\], \[[Amazon](https://www.amazon.com/dp/3030925242/ref=cm_sw_em_r_mt_dp_FDNTBNH4591SBQ769MZH)\], \[[Amazon-JP](https://www.amazon.co.jp/dp/3030925242/ref=cm_sw_em_r_mt_dp_FDNTBNH4591SBQ769MZH)\]
-2. [Book Chapter] Xuan-Tu Tran, **Khanh N. Dang**, Duy-Hieu Bui, and Alain Merigot, *"Low Cost Inter-prediction Architecture in H.264/AVC Encoders with an Efficient Data Reuse Strategy"*, Advances in Engineering Research. Volume 40, Chapter 6. **Nova Science Publishers**, 2020. ISBN 978-1-53618-929-2. \[[LINK](https://novapublishers.com/shop/advances-in-engineering-research-volume-40/)\]. 
-3. [Book Chapter] **Khanh N. Dang** and Abderazek Ben Abdallah, *"Architecture and Design Methodology for Highly-Reliable TSV-NoC Systems"*, Invited Book Chapter, Horizons in Computer Science Research. Volume 16, Chapter 7. **Nova Science Publishers**, 2018. ISBN: 978-1-53613-327-1. \[[LINK](https://novapublishers.com/shop/horizons-in-computer-science-research-volume-16/)\]/\[[PDF](http://adaptive.u-aizu.ac.jp/aslwp/wp-content/uploads/2018/03/Dng_Benab_NOVA_Chapter_2018.pdf)\].
+1. Abderazek Ben Abdallah and **Khanh N. Dang** (Authors), *"Neuromorphic Computing Principles and Organization”*, 1st edition, Publisher: Springer, ISBN-10: 3030925242, ISBN-13: 978-3030925246. \[[Springer](https://link.springer.com/book/9783030925246)\], \[[Amazon](https://www.amazon.com/dp/3030925242/ref=cm_sw_em_r_mt_dp_FDNTBNH4591SBQ769MZH)\], \[[Amazon-JP](https://www.amazon.co.jp/dp/3030925242/ref=cm_sw_em_r_mt_dp_FDNTBNH4591SBQ769MZH)\]
+
+## Book chapter
+2. Xuan-Tu Tran, **Khanh N. Dang**, Duy-Hieu Bui, and Alain Merigot, *"Low Cost Inter-prediction Architecture in H.264/AVC Encoders with an Efficient Data Reuse Strategy"*, Advances in Engineering Research. Volume 40, Chapter 6. **Nova Science Publishers**, 2020. ISBN 978-1-53618-929-2. \[[LINK](https://novapublishers.com/shop/advances-in-engineering-research-volume-40/)\]. 
+3. **Khanh N. Dang** and Abderazek Ben Abdallah, *"Architecture and Design Methodology for Highly-Reliable TSV-NoC Systems"*, Invited Book Chapter, Horizons in Computer Science Research. Volume 16, Chapter 7. **Nova Science Publishers**, 2018. ISBN: 978-1-53613-327-1. \[[LINK](https://novapublishers.com/shop/horizons-in-computer-science-research-volume-16/)\]/\[[PDF](http://adaptive.u-aizu.ac.jp/aslwp/wp-content/uploads/2018/03/Dng_Benab_NOVA_Chapter_2018.pdf)\].
 {: reversed="reversed"}
 
 ## Journal paper 
