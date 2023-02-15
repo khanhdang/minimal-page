@@ -4,7 +4,7 @@ title: Publication
 ---
 # Publication
 
-Disclaimer: This page contains PDF files of articles that might be covered by copyright. Please do not retrieve, copy, or distribute these files as it may violate copyright protection laws.
+» Disclaimer: This page contains PDF files of articles that might be covered by copyright. Please do not retrieve, copy, or distribute these files as it may violate copyright protection laws.
 {: .announce }
 
 ## Book
@@ -21,7 +21,7 @@ Disclaimer: This page contains PDF files of articles that might be covered by co
 1. Duy-Anh Nguyen, Xuan-Tu Tran, **Khanh N. Dang**, and Francesca Iacopi, *"A Low-Power, High-Accuracy with Fully On-Chip Ternary Weight Hardware Architecture for Deep Spiking Neural Networks"*, **Microprocessors and Microsystems**, Elsevier, Volume 90, pp. 104458, 2022. \[[DOI: 10.1016/j.micpro.2022.104458](https://doi.org/10.1016/j.micpro.2022.104458)\] \[[PDF](./share/pubs/MICPRO-2022.pdf)\] \[[Source code](https://github.com/khanhdang/TW-SNN)\]. 
 2.  **Khanh N. Dang**, Nguyen Anh Vu Doan, Abderazek Ben Abdallah *"MigSpike: A Migration Based Algorithm and Architecture for Scalable Robust Neuromorphic Systems"*,  **IEEE Transactions on Emerging Topics in Computing (TETC)**,  IEEE, Volume 10, Issue 2, pp. 602-617, 2022.  \[[DOI: 10.1109/TETC.2021.3136028](https://doi.org/10.1109/TETC.2021.3136028)\] \[[PDF](./share/pubs/TETC-2021.pdf)\].
 2. **Khanh N. Dang**, Akram Ben Ahmed, Abderazek Ben Abdallah, Xuan-Tu Tran, *"HotCluster: A thermal-aware defect recovery method for Through-Silicon-Vias Towards Reliable 3-D ICs systems"*, **IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems**, IEEE, Volume 41, No. 4,  pp. 799-812, April 2022. \[[DOI: 10.1109/TCAD.2021.3069370](https://doi.org/10.1109/TCAD.2021.3069370)\]/\[[PDF](./share/pubs/TCAD-2021.pdf)\].
-3. Wang, Jiangkun, Ogbodo Mark Ikechukwu, **Khanh N. Dang**, and Abderazek Ben Abdallah, "Spike-Event X-ray Image Classification for 3D-NoC-Based Neuromorphic Pneumonia Detection", Electronics, Vol. 11, no. 24: 4157. \[[DOI: 10.3390/electronics11244157](https://doi.org/10.3390/electronics11244157)\]
+3. Wang, Jiangkun, Ogbodo Mark Ikechukwu, **Khanh N. Dang**, and Abderazek Ben Abdallah, "Spike-Event X-ray Image Classification for 3D-NoC-Based Neuromorphic Pneumonia Detection", **Electronics**, Vol. 11, no. 24: 4157. \[[DOI: 10.3390/electronics11244157](https://doi.org/10.3390/electronics11244157)\]
 4.  Abderazek Ben Abdallah, **Khanh N. Dang**, *"Towards Robust Cognitive 3D Brain-inspired Cross-paradigm System"*, **Frontiers in Neuroscience**, Frontiers, Volume 15, pp. 795, 2021. \[[DOI: 10.3389/fnins.2021.690208](https://doi.org/10.3389/fnins.2021.690208)\]/\[[PDF](./share/pubs/FNINS-2021.pdf)\].
 5. Mark Ogbodo, **Khanh N. Dang**,  Abderazek Ben Abdallah,  *"On the Design of a  Fault-tolerant Scalable Three Dimensional NoC-based  Digital Neuromorphic System with On-chip Learning"*, **IEEE Access**, IEEE, Volume 9, pp. 64331 - 64345, 2021. \[[DOI: 10.1109/ACCESS.2021.3071089](https://doi.org/10.1109/ACCESS.2021.3071089)\]/\[[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9395458)\].
 6. **Khanh N. Dang**, Akram Ben Ahmed, Abderazek Ben Abdallah, Xuan-Tu Tran, *"A thermal-aware on-line fault tolerance method for TSV lifetime reliability in 3D-NoC systems"*, **IEEE Access**, IEEE, Volume 8, pp. 166642-166657, 2020. \[[DOI: 10.1109/ACCESS.2020.3022904](https://doi.org/10.1109/ACCESS.2020.3022904 )\]/\[[PDF](./share/pubs/ACCESS-2022-2.pdf)\].

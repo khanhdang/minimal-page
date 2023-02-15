@@ -16,8 +16,6 @@ Beside conventional computing, lowering the operating voltage to near the thresh
 ## Fault-tolerant Computing
 Devices after manufacture and during wareout can suffer permanent defects that affect the accuracy of the device. Another type of fault is transient one when alpha particles or noises cause fluctuations in the cells/transistor causing incorrect consequence. In this topic, we research on how to predict and tolerate the potential faults.
 
-For prospective GT undergraduate and graduate students, please visit my office if you have any questions about the research topics.  
-{: .announce}
 
 ## Patent
 

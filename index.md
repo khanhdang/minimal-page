@@ -23,7 +23,7 @@ world.
 
 **Email**: khanh@u-aizu.ac.jp \| **Contact**: [Contact Info](contact.html) \| [Resume](share/khanh_cv.pdf) *(Last update: Jan 2023)*
 
-For prospective GT undergraduate and graduate students, research topics (VLSI design, fault-tolerance or neuromorphic computing) are available; interested potential candidates please send me an email.  Partial financial supports for graduate students are
+» For prospective GT undergraduate and graduate students, research topics (VLSI design, fault-tolerance or neuromorphic computing) are available; interested potential candidates please send me an email.  Partial financial supports for graduate students are
 also possible. 
 {: .announce}
 

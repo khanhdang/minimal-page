@@ -25,12 +25,6 @@ menu:
 - title: Research
   url: research.html
 
-# - title: Grant
-#   url: grant.html
-
-# - title: Patent
-#   url: patent.html
-
 - title: Publication
   url: pub.html
 
@@ -40,14 +34,11 @@ menu:
 - title:  Service
   url: service.html
 
-#- title: Group Member
-  #url: grp_mem.html
+- title: Student
+  url: grp_mem.html
 
 # - title: Mentoring
 #   url: mentor.html
 
 - title: Contact
   url: contact.html
-
-# - title: <img alt="logo" src="assets/images/favicon.png" class="m-icon">
-#   url: https://web-int.u-aizu.ac.jp/~khanh/

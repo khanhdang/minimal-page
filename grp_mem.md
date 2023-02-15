@@ -2,9 +2,10 @@
 layout: default
 title: Group Member
 ---
-# Group Member
+# Student
 
-
+Please visit [this link](https://web-ext.u-aizu.ac.jp/misc/benablab/members.html) for the list of all members in Ben Abdallah and Dang Lab.
+{: .announce}
 ## Graduate Student
 
 - M1: NGUYEN Ngo Doanh
