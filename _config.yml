@@ -40,8 +40,8 @@ menu:
 - title:  Service
   url: service.html
 
-- title: Group Member
-  url: grp_mem.html
+#- title: Group Member
+  #url: grp_mem.html
 
 # - title: Mentoring
 #   url: mentor.html
