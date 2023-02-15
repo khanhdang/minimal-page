@@ -15,7 +15,7 @@ title: Service
 - TPC member: IEEE MCSoC 2018, IEEE MCSoC 2019, IEEE ICCE 2020, IEEE APCCAS 2020, IEEE MCSoC 2021, IEEE APCCAS 2021
 
 ## Academic activity
-- Member of IEEE, IEEE CAS and IEEE SSCS
+- Member of IEEE and ACM
 - Technical Presenter/Chapter representative at The 3nd IEEE South-East Asia Workshop on Circuits and Systems (SEACAS 2019)
 - Technical Presenter/Chapter representative at The 2nd IEEE South-East Asia Workshop on Circuits and Systems (SEACAS 2018)
 - Technical presentation at The 1st IEEE South-East Asia Workshop on Circuits and Systems (SEACAS 2017)

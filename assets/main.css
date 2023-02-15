@@ -26,7 +26,6 @@ body {
 }
 
 .content-section {
-
     margin: 0 auto;
     width: 880px;
     min-height: calc(100vh - 56px - 41px);  /*minus height of header and footer */
@@ -41,7 +40,7 @@ body {
 }
 .header-section {
     margin: 0 auto;
-    border-bottom: 1px solid #ececec;
+    border-bottom: 0.2px solid #ececec;
 }
 
 a:link {
@@ -58,7 +57,7 @@ a:hover {
 
 .footer-section {
     margin: 0 auto;
-    border-top: 1px solid #e9ecef;
+    border-top: 0.2px solid #e9ecef;
 }
 
 
@@ -100,31 +99,21 @@ hr {
 
 .nav a {
     float: left;
-    /* font-weight: 500; */
     display: block;
     color: #333;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
-    /* font-weight: 300; */
-    /* font-size: 0.8rem; */
 }
 
 .nav a:hover {
     color: tomato;
 }
 
-
 .nav .menu {
     float: right;
 }
 
-.nav .m-icon {
-    padding: 6px 0px 0px 0px;
-    /* padding: 14px 0px 0px 0px; */
-    /* height: 20px; */
-    height: 14px;
-}
 .nav .icon {
     padding: 14px 0px 0px 0px;
     display: none;
@@ -138,10 +127,10 @@ hr {
 }
 
 .nav a.title {
-    padding: 13px 16px 13px 0px;
+    padding: 10.6px 16px 10.6px 0px;
     /* color: tomato; */
-    font-weight: 600;
-    /* font-size: 1.2rem; */
+    font-weight: 700;
+    font-size: 1.2rem;
 }
 
 @media screen and (max-width: 895px) {
@@ -162,7 +151,7 @@ hr {
 
     .nav a.title {
         display: block;
-        font-size: 1rem;
+        /* font-size: 1rem; */
     }
 
     .nav .menu {
@@ -201,39 +190,33 @@ hr {
 
 
 h1 {
-    font-size: 1.7em;
-    margin-bottom: -0.4em;
-    padding-bottom: 0.7em;
     text-align: center;
     font-weight: 700;
     color:#444;
-    /* border-bottom: #e9ecef 1px solid; */
 }
 
 h2 {
-    font-size: 1.37em;
-    margin-bottom: -0.4em;
-    font-weight: 500;
+    font-weight: 600;
     color:#444;
 
 }
 
 h3 {
-    font-size: 1.1em;
-    padding-top: 0.7em;
-    margin-bottom: -0.4em;
     font-weight: 500;
     color:#444;
 
 }
 
 b, strong {
-    font-weight: 500;
-    color:#444;
-
+    font-weight: 600;
 }
+
 .announce {
     color: tomato;
+    border: 0.5px solid salmon;
+    padding: 15px;
+    border-radius: 10px;
+    background-color: Snow;
 }
 
 .scroll-news {
@@ -268,8 +251,6 @@ b, strong {
 
 
 @media (max-width: 895px) {
-
-
     .avatar {
         float: none;
         margin-left: auto;
@@ -278,7 +259,6 @@ b, strong {
         width: min(50%, 250px);
 
     }
-
     .content-section {
         margin: 0 auto;
         width: 100%;
@@ -287,34 +267,5 @@ b, strong {
         margin-left: 8px;
         margin-right: 8px;
     }
-    h2, h3, h4 {
-        margin-block-start: 0.3em;
-        margin-block-end: 0.3em;
-    }
-}
 
-
-#toTopButton {
-    display: none;
-    position: fixed;
-    bottom: 30px;
-    right: 30px;
-    z-index: 99;
-    font-size: 12px;
-    border: none;
-    outline: none;
-    background-color: tomato;
-    color: white;
-    cursor: pointer;
-    padding: 12px;
-    border-radius: 7px;
-}
-
-#toTopButton::after {
-    content: url("images/up.svg");
-    font-weight: normal;
-    font-style: normal;
-    font-size: 1em;
-    line-height: 14px;
-    color: #fff;
 }

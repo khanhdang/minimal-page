@@ -10,7 +10,7 @@ Inspired by the structure and function of the human brain, we design neuromorphi
 ## Machine Learning/Optimization for Computer-Aided Design
 We target to solve complicated problem of Computer-Aided Design using machine learning and optimization technique. Despite being decided by the designers, we aim to develop the platform to generate the design. Our main focus is  using Genetic Algorithm/Reinforcement Learning on thermal awareness and reliability.
 
-For prospective GT undergraduate and graduate students, please visit my office if you have any related questions about the research topics. Please send me an email to arrange the apointment (online or offline).  
+For prospective GT undergraduate and graduate students, please visit my office if you have any questions about the research topics. Please send me an email to arrange the appointment.  
 {: .announce}
 
 ## Patent

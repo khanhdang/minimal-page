@@ -11,7 +11,8 @@ title: Teaching
 - FU05: コンピュータアーキテクチャ論 \| Computer Architecture (Ex.), University of Aizu, *Undergraduate*,  Q1.
 - SE08: データマイニング概論 \| Introduction of Data Mining (Ex.), University of Aizu, *Undergraduate*, Q3.
 - FU06: オペレーティングシステム論 \| Operating Systems (Ex.), University of Aizu, *Undergraduate*,  Q4.
-
+- SYA14: Neuromorphic Computing (Sub Instructor), University of Aizu, *Postgraduate*,  Q2.
+  
 ## Previous Course
 - FU03: 離散系論 \| Discrete Systems (Lec./Ex.), University of Aizu, *Undergraduate*.
 - INT2212: Computer Architecture, Vietnam National University, *Undergraduate*.
