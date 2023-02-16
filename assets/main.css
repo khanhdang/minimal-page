@@ -226,7 +226,7 @@ b, strong {
     height: min(650px, max(270px, calc(100vh - 600px)));
     overflow-y: scroll;
     line-height: 1.9em;
-    font-size: 90%;
+    font-size: 96%;
     color: rgb(55, 55, 55);
     padding: 0.25rem 0.25rem 0.25rem 2rem;
 }
