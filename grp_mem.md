@@ -10,9 +10,7 @@ Please visit [this link](https://web-ext.u-aizu.ac.jp/misc/benablab/members.html
 
 - M1: NGUYEN Ngo Doanh
 
-## Undergraudate Student
-
-Note: Since April 2023
+## Undergraduate Student
 
 - B3: SHIOTA Rui
 - B3: KOBAYASHI Ryoji	

@@ -20,7 +20,7 @@ title: Teaching
 - INT3409: Robotics Programming, Vietnam National University, *Undergraduate*.
 - ELT2401: Digital Electronics, Vietnam National University, *Undergraduate*.
 
-## Invited Lecturer (1-2 sessions)
+## Invited Lecturer 
 - SYC04: Advanced Computer Organization, Uni. of Aizu, *Graduate*, 2019.
 - SYC04: Advanced Computer Organization, Uni. of Aizu, *Graduate*, 2021.
 
