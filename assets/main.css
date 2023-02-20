@@ -28,7 +28,7 @@ body {
 .content-section {
     margin: 0 auto;
     width: 880px;
-    min-height: calc(100vh - 56px - 41px);  /*minus height of header and footer */
+    min-height: calc(100vh - 112px);  /*minus height of header and footer */
 
 }
 @media screen and (max-width: 895px) {
@@ -208,7 +208,7 @@ b, strong {
 }
 
 .scroll-news {
-    height: min(650px, max(270px, calc(100vh - 600px)));
+    height: min(650px, max(270px, calc(100vh - 670px)));
     overflow-y: scroll;
     line-height: 1.9em;
     font-size: 96%;
