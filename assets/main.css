@@ -173,21 +173,6 @@ hr {
     }
 }
 
-.sticky {
-  position: fixed;
-  background-color: #fff;
-  top: 0;
-  width: 100%;
-  transition: max-height 0.15s ease-out;
-
-}
-
-.sticky + .content-section {
-    padding-top: 55px;
-
-}
-
-
 
 h1 {
     text-align: center;
