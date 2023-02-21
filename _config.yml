@@ -43,8 +43,9 @@ menu:
 # - title: Mentoring
 #   url: mentor.html
 
+  
+- title: ↗️Ben Abdallah &amp; Dang Lab
+  url: https://web-ext.u-aizu.ac.jp/misc/benablab/
+
 - title: Contact
   url: contact.html
-  
-- title: Laboratory
-  url: https://web-ext.u-aizu.ac.jp/misc/benablab/
