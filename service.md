@@ -5,8 +5,9 @@ title: Service
 
 # Professional Service
 
-## Special Issue
--  Journal of Low Power Electronics and Applications (ESCI/Scopus): ''Advances in Embedded Artificial Intelligence and Internet-of-Things'', \[[URL](https://www.mdpi.com/journal/jlpea/special_issues/DU85TF44GS)\]
+## Special Session/Issue
+- [OPEN] IEEE MCSoC  2023: ''Machine Learning and Neuromorphic Computing for Edge and IoT''
+- [CLOSE] Journal of Low Power Electronics and Applications (ESCI/Scopus): ''Advances in Embedded Artificial Intelligence and Internet-of-Things'', \[[URL](https://www.mdpi.com/journal/jlpea/special_issues/DU85TF44GS)\]
 
 ## Conferences Organizing
 - TPC co-chair: IEEE MCSoC 2019, IEEE APPCAS 2020, IEEE MCSoC 2021, IEEE MCSoC 2022
