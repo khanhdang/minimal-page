@@ -46,7 +46,7 @@ JP2019092020A, Japan (patent pending) \[[Google Patent](https://patents.google.c
 
 
 ## Conference paper
-1. Mohamed Maatar, Abderazek Ben Abdallah and **Khanh N. Dang**, *"Thermal-Aware Task-Mapping Algorithm and Architecture for 3D-NoC-Based Event-Driven Neuromorphic System"*, **2023 IEEE 6th International Conference on Electronics Technology (ICET)**, May 12-15, 2023. *(accepted)*
+1. Mohamed Maatar, **Khanh N. Dang** and Abderazek Ben Abdallah, *"Thermal-Aware Task-Mapping Algorithm and Architecture for 3D-NoC-Based Event-Driven Neuromorphic System"*, **2023 IEEE 6th International Conference on Electronics Technology (ICET)**, May 12-15, 2023. *(accepted)*
 2.  Jiangkun Wang, **Khanh N. Dang** and Abderazek Ben Abdallah, *"Scaling Deep-Learning Pneumonia Detection Inference on a Reconfigurable Self-Contained Hardware Platform"*, **2023 IEEE 6th International Conference on Electronics Technology (ICET)**, May 12-15, 2023. *(accepted)*
 3. Cheng Hong, Sinchhean Phea, **Khanh N. Dang**, Abderazek Ben Abdallah, *"The AIzuHand Neuromorphic Prosthetic Hand"*, **The 5th ETLTC International Conference on ICT Integration in Technical Education (ETLTC2023)**, January 24-27, 2023.
 4. Masaki Watanabe, **Khanh N. Dang**, Abderazek Ben Abdallah, *"Multimodal sEMG and Speech-Based Design and Evaluation of a Low-Cost",* **The 5th ETLTC International Conference on ICT Integration in Technical Education (ETLTC2023)**, January 24-27, 2023.
