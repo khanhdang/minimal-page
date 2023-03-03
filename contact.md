@@ -27,4 +27,4 @@ Please visit [this link](https://u-aizu.ac.jp/en/access/) to know how to access 
  - [Github](https://github.com/khanhdang)
  - [Google Patents](https://patents.google.com/?inventor=Nam+Khanh+Dang)
  - [Ben Abdallah & Dang Lab](https://web-ext.u-aizu.ac.jp/misc/benablab/) 
- - [garage-docs](https://web-int.u-aizu.ac.jp/~khanh/) 
+ - [web-internal](https://web-int.u-aizu.ac.jp/~khanh/) 
