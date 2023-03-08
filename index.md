@@ -29,7 +29,7 @@ also possible.
 
 
 ## News
-- **2023-03:**: Our special session in the IEEE MCSoC 2023 titled ''Machine Learning and Neuromorphic Computing for Edge and IoT'' is now accepting new submission \[[here](https://mcsoc-forum.org/site/index.php/machine-learning-and-neuromorphic-computing-for-edge-and-iot/)\]!
+- **2023-03:** Our special session in the IEEE MCSoC 2023 titled ''Machine Learning and Neuromorphic Computing for Edge and IoT'' is now accepting new submission \[[here](https://mcsoc-forum.org/site/index.php/machine-learning-and-neuromorphic-computing-for-edge-and-iot/)\]!
 - **2022-08:** \[CLOSED\] Our special issue on Journal of Low Power Electronics and Applications (ESCI/Scopus) is now accepting new submission: \[[here](https://www.mdpi.com/journal/jlpea/special_issues/DU85TF44GS)\]
 - **2022-07:** Our book titled *"Neuromorphic Computing Principles and Organization”* is now available on Springer ([URL](https://link.springer.com/book/10.1007/978-3-030-92525-3)), Amazon ([URL](https://www.amazon.com/dp/3030925242/)) and Amazon-JP ([URL](https://www.amazon.co.jp/dp/3030925242/)).
 - **2022-04:** I joined the University of Aizu as an associate professor from April of 2022. Visit my [Univ. of Aizu Profile here](https://u-aizu.ac.jp/research/faculty/detail?cd=90142&lng=en)!
