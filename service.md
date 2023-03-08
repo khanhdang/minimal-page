@@ -6,7 +6,7 @@ title: Service
 # Professional Service
 
 ## Special Session/Issue
-- [OPEN] IEEE MCSoC  2023: ''Machine Learning and Neuromorphic Computing for Edge and IoT''
+- [OPEN] IEEE MCSoC  2023: ''Machine Learning and Neuromorphic Computing for Edge and IoT'', \[[URL](https://mcsoc-forum.org/site/index.php/machine-learning-and-neuromorphic-computing-for-edge-and-iot/)\]
 - [CLOSE] Journal of Low Power Electronics and Applications (ESCI/Scopus): ''Advances in Embedded Artificial Intelligence and Internet-of-Things'', \[[URL](https://www.mdpi.com/journal/jlpea/special_issues/DU85TF44GS)\]
 
 ## Conferences Organizing
